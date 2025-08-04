@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkantro_del_furegone=self.webpackChunkantro_del_furegone||[]).push([[9647],{7121:(e,r,s)=>{s.r(r),s.d(r,{default:()=>o});s(6540);var n=s(4164),u=s(7559),a=s(5500),t=s(2831),c=s(1656),l=s(4848);function o(e){return(0,l.jsx)(a.e3,{className:(0,n.A)(u.G.wrapper.docsPages),children:(0,l.jsx)(c.A,{children:(0,t.v)(e.route.routes)})})}}}]);
