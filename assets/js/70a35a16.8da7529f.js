@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkil_mio_sito=self.webpackChunkil_mio_sito||[]).push([[5357],{8907:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/antro/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkil_mio_sito=self.webpackChunkil_mio_sito||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/antro/blog","blogTitle":"Blog","authorsListPath":"/antro/blog/authors"}')}}]);
