@@ -1,0 +1,18 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.badge {
+  margin-top: 2rem;
+  font-weight: bold;
+  color: #ff9900;
+  font-style: italic;
+  }
