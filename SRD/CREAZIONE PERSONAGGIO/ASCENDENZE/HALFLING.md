@@ -1,0 +1,5 @@
+Gli halfling sono piccoli umanoidi con grandi piedi pelosi e orecchie prominenti e arrotondate. In media, gli halfling sono alti da 90 cm a 1,2 m, e le loro orecchie, naso e piedi sono più grandi in proporzione al resto del loro corpo. I membri di questa ascendenza vivono per circa 150 anni, e l'aspetto di un halfling è probabile che rimanga giovanile anche quando progrediscono dall'età adulta alla vecchiaia. Gli halfling sono naturalmente in sintonia con i campi magnetici del Mortal Realm, garantendo loro una forte bussola interna. Possiedono anche sensi acuti di udito e olfatto, e possono spesso rilevare coloro che sono a loro familiari dal suono dei loro movimenti.
+
+##### CARATTERISTICA DI ASCENDENZA
+**Portafortuna:** All'inizio di ogni sessione, tutti nel tuo gruppo ottengono una Speranza.  
+**Bussola Interiore:** Quando tiri un 1 sul tuo Dado Speranza, puoi ritirarlo.
