@@ -101,6 +101,10 @@ b {
   float: none;          /* assicura che non venga fluttuata */
 }
 
+.markdown p {
+  text-align: justify;
+}
+
 .theme-doc-markdown h5,
 .markdown h5 {
   position: relative;
