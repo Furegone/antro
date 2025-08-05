@@ -48,3 +48,35 @@
   }
 }
 
+.quickLinks {
+  text-align: center;
+  margin: 1rem 0 2rem 0;
+  display: none; /* Nascondo di default */
+}
+
+@media (max-width: 768px) {
+  .quickLinks {
+    display: block; /* Mostro solo su schermi piccoli (tablet/mobili) */
+  }
+}
+
+.buttonsRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.quickButton {
+  background-color: #2c3b46;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.quickButton:hover {
+  background-color: #4338ca;
+}

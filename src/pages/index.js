@@ -11,6 +11,11 @@ export default function Home() {
       
       <main className={styles.mainContainer}>
         {/* Le due colonne (affiancate su desktop, verticali su mobile) */}
+        <section className={styles.quickLinks}>
+  <div className={styles.buttonsRow}>
+    <a className={styles.quickButton} href="/docs/inizia-qui">Daggerheart SRD</a>
+  </div>
+</section>
         <section className={styles.columnsContainer}>
 
 <div className={styles.authorColumn}>

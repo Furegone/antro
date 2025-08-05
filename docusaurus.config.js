@@ -115,6 +115,11 @@ const config = {
           },
         ],
       },
+        colorMode: {
+    disableSwitch: true,
+    defaultMode: 'light',
+    respectPrefersColorScheme: false,
+  },
       footer: {
         style: 'dark',
         links: [
