@@ -1,7 +1,7 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding-bottom: 2rem;
   width: 100%;
 }
 
@@ -16,3 +16,55 @@
   color: #ff9900;
   font-style: italic;
   }
+
+  .progressBars {
+  text-align: left;
+  padding: 0 1rem;
+}
+
+.progressBarContainer {
+  margin-bottom: 1.2rem;
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.projectName {
+  flex: 1 0 40%;
+  font-weight: 600;
+}
+
+.progressBar {
+  flex: 1 0 50%;
+  height: 12px;
+  background-color: #e0e0e0f3;
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 0 0.5rem;
+}
+
+.progressFill {
+  height: 100%;
+  background-color: #0a52a0;
+  border-radius: 6px 0 0 6px;
+  transition: width 0.3s ease-in-out;
+}
+
+.progressPercent {
+  flex: 0 0 10%;
+  font-weight: 500;
+  text-align: right;
+  font-size: 0.9rem;
+}
+
+.col.col--4 {
+  max-height: 300px; /* regola il valore in base alle tue sezioni */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* titolo in basso, barre in alto */
+}
+
+.progressBars {
+  max-height: 220px;    /* limita altezza totale delle barre */
+  margin-bottom: 1rem;  /* spazio sotto alle barre */
+ }

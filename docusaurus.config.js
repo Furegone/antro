@@ -47,9 +47,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          //slugify: maintainCaseSlug, // non sempre supportato ufficialmente
+          remarkPlugins: [require("remark-breaks")],
               },
         blog: {
           showReadingTime: true,
@@ -59,8 +57,6 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -108,16 +104,10 @@ const config = {
         title: 'Antro del Furegone',
         logo: {
           alt: 'Logo',
-          src: 'img/android-chrome-192x192.png',
+          src: 'img/home.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/SRD/DAGGERHEART', label: 'SRD', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

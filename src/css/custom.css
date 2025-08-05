@@ -60,12 +60,13 @@ h5 {
   font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 1.2rem;
   color: #9cd;
+  padding-left: 1.5em; /* spazio per il quadrato */
 }
 
 h6 {
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 1.2rem;
-  font-weight: normal !important;
+  font-size: 1.5rem;
+  font-weight: 900;
   color: #9cd;
 }
 
@@ -78,4 +79,45 @@ b {
   color: #fff !important;
   font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 1.5rem;
+}
+
+.markdown a {
+  color: #fca832;         /* Colore link */
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-size: 1.2rem;
+  font-weight:600;  text-decoration: none;
+}
+
+.markdown a:hover {
+  color: #a8323b;
+  text-decoration: underline;
+}
+
+.markdown img {
+  display: block;       /* rende l'immagine un blocco indipendente */
+  margin: 0 0 1em 0;    /* rimuove margini laterali, spazio solo sotto */
+  max-width: 100%;      /* immagine responsiva */
+  height: auto;         /* mantiene le proporzioni */
+  float: none;          /* assicura che non venga fluttuata */
+}
+
+.theme-doc-markdown h5,
+.markdown h5 {
+  position: relative;
+  padding-left: 1.2em;
+}
+
+.theme-doc-markdown h5::before,
+.markdown h5::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0.6em;
+  height: 0.6em;
+  background-color: #9cd;
+  border-radius: 0.1em;
+  display: inline-block;
+  z-index: 1;
 }

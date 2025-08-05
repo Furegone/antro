@@ -1,23 +1,49 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+/* Contenitore colonne: layout flex affiancato con gap */
+.columnsContainer {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 2rem 3rem 2rem; /* 2rem sopra, 1rem a dx e sx, 3rem sotto */
+  flex-wrap: wrap; /* consente alle colonne di andare a capo in mobile */
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
+/* Colonna autore e colonna missione */
+.authorColumn,
+.missionColumn {
+  flex: 1 1 45%; /* larghezza approssimativa 45% */
+  min-width: 280px; /* evita larghezze troppo strette */
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background-clip: padding-box;
+  box-sizing: border-box;
+}
+
+/* Colore differenziato */
+.authorColumn {
+  background-color: #023;
+}
+
+.missionColumn {
+  background-color: #023;
+}
+
+/* Nota editor */
+.editorNote {
+  margin-top: 2rem;
+  font-style: italic;
+  text-align: center
+}
+
+/* Responsive: colonne impilate su schermi piccoli */
+@media (max-width: 720px) {
+  .columnsContainer {
+    flex-direction: column;
+  }
+  
+  .authorColumn,
+  .missionColumn {
+    flex: 1 1 100%;
+    min-width: auto;
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}

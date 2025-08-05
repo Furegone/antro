@@ -1,18 +1,17 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import ProgressBars from '@site/src/components/ProgressBars';
 
 const FeatureList = [
   {
     title: 'Materiali per Daggerheart',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/logos-10.svg').default,
     description: (
       <>
-        Una raccolta di materiali per Daggerheart tradotti In italiano: SRD, Schede, Fogli Extra, Carte di Dominio, Materiali di Void.
+        Una raccolta di materiali per Daggerheart tradotti In italiano: SRD, Schede, etc..
       </>
     ),
-    link: '/docs/materiali',           // qui la URL dove vuoi mandare
-    linkLabel: 'Vai ai materiali',     // testo del pulsante
   },
   {
     title: 'Consigli e Strumenti per Game Masters.',
@@ -22,43 +21,66 @@ const FeatureList = [
         Una raccolta di strumenti utili per Game Masters, per creare e gestire campagne.
       </>
     ),
-    link: '/docs/strumenti',
-    linkLabel: 'Scopri di più',
   },
-  {
-    title: 'Regole e Homebrew',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
+    {
+    title: 'Progetti in corso',
+    Svg: ProgressBars,    // invece di un SVG usiamo il componente ProgressBars
+    //reverseOrder: true,
+        description: (
       <>
-        Nuove Regole, Ambientazioni, Spunti, e Work in Progress. Sia per Daggerheart che per altri Sistemi.
+        Stato dei lavori di traduzione e realizzazione dei mie progetti!
       </>
     ),
-    badge: 'Work in Progress',
-    // senza link → nessun pulsante mostrato
+    // senza link e pulsante, ma puoi aggiungerli se vuoi
   },
 ];
 
-function Feature({Svg, title, description, link, linkLabel, badge}) {
+function Feature({ Svg, title, description, link, linkLabel, badge, reverseOrder }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-        {link && linkLabel && (
-          <a href={link} className="button button--primary" target="_blank" rel="noopener noreferrer">
-            {linkLabel}
-          </a>
-        )}
-        {badge && (
-          <div className={styles.badge}>{badge}</div>
-        )}
-      </div>
+      {reverseOrder ? (
+        <>
+          <div className="text--center padding-horiz--md">
+            <Heading as="h3">{title}</Heading>
+            <p>{description}</p>
+
+            {link && linkLabel && (
+              <a href={link} className="button button--primary" target="_blank" rel="noopener noreferrer">
+                {linkLabel}
+              </a>
+            )}
+
+            {badge && <div className={styles.badge}>{badge}</div>}
+          </div>
+
+          <div className="text--center" style={{ marginTop: 20 }}>
+            <Svg />
+          </div>
+        </>
+      ) : (
+        <>
+          <div className="text--center">
+            <Svg className={styles.featureSvg} role="img" />
+          </div>
+
+          <div className="text--center padding-horiz--md">
+            <Heading as="h3">{title}</Heading>
+            <p>{description}</p>
+
+            {link && linkLabel && (
+              <a href={link} className="button button--primary" target="_blank" rel="noopener noreferrer">
+                {linkLabel}
+              </a>
+            )}
+
+            {badge && <div className={styles.badge}>{badge}</div>}
+          </div>
+        </>
+      )}
     </div>
   );
 }
+
 
 export default function HomepageFeatures() {
   return (
