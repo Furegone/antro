@@ -117,7 +117,7 @@ const config = {
       },
         colorMode: {
     disableSwitch: true,
-    defaultMode: 'light',
+    defaultMode: 'dark',
     respectPrefersColorScheme: false,
   },
       footer: {
