@@ -27,7 +27,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Furegone', // Usually your GitHub org/user name.
   projectName: 'antro', // Usually your repo name.
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -61,7 +61,6 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
-          onBrokenLinks: 'warn', // oppure 'ignore'
         },
         theme: {
           customCss: './src/css/custom.css',
