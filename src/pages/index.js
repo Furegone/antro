@@ -13,7 +13,7 @@ export default function Home() {
         {/* Le due colonne (affiancate su desktop, verticali su mobile) */}
         <section className={styles.quickLinks}>
   <div className={styles.buttonsRow}>
-    <a className={styles.quickButton} href="/docs/SRD/DAGGERHEART">Daggerheart SRD</a>
+    <a className={styles.quickButton} href="/antro/docs/SRD/DAGGERHEART">Daggerheart SRD</a>
   </div>
 </section>
         <section className={styles.columnsContainer}>
