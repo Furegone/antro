@@ -1,0 +1,3 @@
+A partire dal livello 5, puoi scegliere di multiclassare come opzione quando sali di livello. Quando multiclassi, scegli una classe aggiuntiva, ottieni accesso a uno dei suoi domini e acquisisci la sua caratteristica di classe. Prendi il modulo multiclasse appropriato e aggiungilo al lato destro della tua scheda personaggio, quindi scegli una carta base da una delle sue sottoclassi. Se le tue carte base specificano tratti Incantesimo diversi, puoi scegliere quale applicare quando effettui uno Tiro Incantesimo. 
+
+Ogni volta che hai la possibilità di acquisire una nuova carta di dominio, puoi scegliere tra le carte al tuo livello o inferiore alla metà (arrotondato per eccesso) dal dominio che hai scelto quando hai selezionato il miglioramento multiclasse.

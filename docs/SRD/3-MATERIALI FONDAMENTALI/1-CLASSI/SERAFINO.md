@@ -51,19 +51,19 @@ Forza
 **Potere degli Dei:** Mentre voli, infliggi un danno extra di 1d12 invece di 1d8 dalla tua funzione "Wings of Light".
 
 > **DOMANDE DI BACKGROUND**
-> > Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
+> Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 > 
-> - A quale dio ti sei dedicato? Quale incredibile impresa hanno compiuto per te in un momento di disperazione?
+> - A quale dio ti sei dedicato? Quale incredibile impresa ha compiuto per te in un momento di disperazione?
 > 
 > - Come è cambiato il tuo aspetto dopo aver fatto il tuo giuramento?
 > 
 > - In quale modo strano o unico comunichi con il tuo dio?
 > 
 > **LEGAMI**
-> > Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
+> Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
 > 
 > - Quale promessa mi hai fatto accettare, nel caso morissi sul campo di battaglia?
 > 
 > - Perché mi fai così tante domande sul mio dio?
 > 
-> - Mi hai detto di proteggere un membro del nostro party al di sopra di tutti gli altri, anche te stesso. Chi sono e perché?
+> - Mi hai detto di proteggere un membro del nostro party al di sopra di tutti gli altri, anche te stesso. Chi è e perché?

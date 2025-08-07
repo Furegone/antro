@@ -67,18 +67,18 @@ Istinto
 **Carica Arcana:** Puoi accumulare energia magica per migliorare le tue capacità. Quando subisci danni magici, diventi Carico. In alternativa, puoi spendere 2 Speranza per diventare Carico. Quando effettui con successo un attacco che infligge danni magici mentre sei Carico, puoi annullare la tua Carica per ottenere un bonus di +10 al tiro danno o un bonus di +3 alla Difficultà di un tiro reazione che l'incantesimo causa al bersaglio. Smetti di essere Carico al tuo prossimo riposo lungo.
 
 > **DOMANDE DI BACKGROUND**
-> >Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
+> Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 > 
-> - Cosa hai fatto che ha reso le persone nella tua Comunita diffidenti nei tuoi confronti?
+> - Cosa hai fatto che ha reso le persone nella tua Comunità diffidenti nei tuoi confronti?
 > 
-> - Quale mentore ti ha insegnato a controllare la tua magia indomita, e perché non sono più in grado di guidarti?
+> - Quale mentore ti ha insegnato a controllare la tua magia indomita, e perché non è più in grado di guidarti?
 > 
 > - Hai una paura profonda che nascondi a tutti. Cos'è e perché ti spaventa?
 > 
 > **LEGAMI**
-> > Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
+> Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
 > 
-> - Perché ti fido così profondamente?
+> - Perché ti fidi così profondamente?
 > 
 > - Cosa ho fatto che ti rende cauto nei miei confronti?
 > 

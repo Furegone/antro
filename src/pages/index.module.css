@@ -54,7 +54,7 @@
   display: none; /* Nascondo di default */
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .quickLinks {
     display: block; /* Mostro solo su schermi piccoli (tablet/mobili) */
   }

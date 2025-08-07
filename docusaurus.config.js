@@ -49,19 +49,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           remarkPlugins: [require("remark-breaks")],
               },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -94,6 +82,20 @@ const config = {
         },
     ],
 
+plugins: [
+  [
+    require.resolve('@easyops-cn/docusaurus-search-local'),
+    {
+      // Opzioni raccomandate per un sito in italiano
+      indexDocs: true,
+      indexPages: true,
+      language: ['it'], // Puoi usare anche ['en', 'it'] se bilingue
+      highlightSearchTermsOnTargetPage: true,
+      explicitSearchResultPath: true,
+      searchBarShortcut: false,
+    },
+  ],
+],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -108,11 +110,8 @@ const config = {
         },
         items: [
           {to: '/docs/SRD/DAGGERHEART', label: 'SRD', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/grid', label: 'Links', position: 'left'},
+          { type: 'search', position: 'right'}, // ← Casella di ricerca
         ],
       },
         colorMode: {
@@ -127,25 +126,17 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/index',
+                label: 'Daggerheart SRD',
+                to: '/docs/SRD/DAGGERHEART',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Collegamenti Rapidi',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Links',
+                to: '/grid',
               },
             ],
           },
@@ -153,12 +144,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Furegone/antro',
               },
             ],
           },

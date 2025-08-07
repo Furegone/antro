@@ -33,4 +33,4 @@ Ad esempio, Daggerheart ha un'arma chiamata uncino che ti permette di tirare un 
 Allo stesso modo, se il tuo personaggio fa qualcosa che logicamente porterebbe alla morte immediata — come tuffarsi in un vulcano attivo senza protezione — potresti non essere in grado di effettuare una delle "mosse della morte" di Daggerheart, che normalmente ti danno il controllo sul destino del tuo personaggio. Questo tipo di conseguenza dovrebbe essere chiara prima che l'azione sia completata, e dovrebbe sempre seguire la logica del mondo.
 Come gioco incentrato sulla narrazione, Daggerheart non è un luogo dove le interpretazioni tecniche e fuori contesto delle regole sono incoraggiate. Tutto dovrebbe rifluire nella finzione, e il GM ha l'autorità e la responsabilità di prendere decisioni su come le regole vengono applicate per sottolineare quella finzione.
 
- [Creazione del Personaggio](./2-CREAZIONE DEL PERSONAGGIO/1-CREAZIONE DEL PERSONAGGIO.md)
+ [Creazione del Personaggio](./03-CREAZIONE DEL PERSONAGGIO.md)

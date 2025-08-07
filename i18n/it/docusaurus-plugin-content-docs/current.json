@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.SRD": {
+    "message": "SRD",
+    "description": "The label for category SRD in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.MATERIALI FONDAMENTALI": {
+    "message": "MATERIALI FONDAMENTALI",
+    "description": "The label for category MATERIALI FONDAMENTALI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CLASSI": {
+    "message": "CLASSI",
+    "description": "The label for category CLASSI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ASCENDENZE": {
+    "message": "ASCENDENZE",
+    "description": "The label for category ASCENDENZE in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.COMUNITA": {
+    "message": "COMUNITA",
+    "description": "The label for category COMUNITA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.GESTIRE UN'AVVENTURA": {
+    "message": "GESTIRE UN'AVVENTURA",
+    "description": "The label for category GESTIRE UN'AVVENTURA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.GUIDA DEL GM": {
+    "message": "GUIDA DEL GM",
+    "description": "The label for category GUIDA DEL GM in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.AVVERSARI": {
+    "message": "AVVERSARI",
+    "description": "The label for category AVVERSARI in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.AMBIENTI": {
+    "message": "AMBIENTI",
+    "description": "The label for category AMBIENTI in sidebar tutorialSidebar"
+  }
+}

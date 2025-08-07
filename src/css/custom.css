@@ -125,3 +125,107 @@ b {
   display: inline-block;
   z-index: 1;
 }
+
+/* Riduci il font del titolo del sito solo su schermi piccoli */
+@media (max-width: 768px) {
+  .navbar__title {
+    font-size: 1rem !important; /* o prova 0.9rem per un effetto più forte */
+    white-space: nowrap; /* evita che vada a capo */
+    max-width: 50vw; /* limita la larghezza per evitare sovrapposizioni */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --ifm-font-size-base: 90%;
+    --ifm-heading-h1-font-size: 1.6rem;
+    --ifm-heading-h2-font-size: 1.3rem;
+    --ifm-heading-h3-font-size: 1.1rem;
+  }
+
+  /* Riduce ulteriormente font solo nel contenuto testuale markdown */
+  /*.markdown { */
+ /*   font-size: 0.9rem; */
+  /*} */
+}
+
+.DocSearch-Button-Key,
+.DocSearch-Button-Keys {
+  display: none !important;
+}
+
+blockquote {
+  border-left: 4px solid rgb(221, 153, 221);
+  padding-left: 1rem;
+  margin-left: 0;
+  font-style: italic;
+  background-color: #1f2021;
+}
+
+/* Container principale della pagina */
+.grid-container {
+  padding: 2rem;
+  color: #e0e0e0;
+}
+
+/* Wrapper griglia flessibile */
+.grid-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+/* Colonna singola */
+.grid-column {
+  flex: 1 1 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Box del contenuto */
+.content-box {
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+/* Titolo del contenuto */
+.content-box-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #f5f5f5;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+/* Paragrafo del contenuto */
+.content-box-text {
+  font-size: 1rem;
+  color: #dcdcdc;
+  margin: 0;
+}
+
+/* Link all'interno del box */
+.content-box-link {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 900;
+  color: #fca832;
+ 
+}
+
+.content-box-links {
+  list-style: none;
+  padding: 0;
+  margin-top: 0.5rem;
+}
+
+.content-box-links li {
+  margin-bottom: 0.25rem;
+}
+
+.content-box-link:hover {
+  text-decoration: none;
+}

@@ -1,43 +1,63 @@
-INDICE[[SRD/GESTIRE AVVENTURA/GUIDA GM/INTRODUZIONE]]
-**INTRODUZIONE**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-Cos'è Questo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-Le Basi. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-**CREAZIONE DEL PERSONAGGIO**. . . . . . . . . . . . . . . . . . . . . . . . . 4
-**MATERIALI FONDAMENTALI.** . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-Domini. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-Classi. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-Ascendenze. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
-Comunità. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
-**MECCANICHE FONDAMENTALI**. . . . . . . . . . . . . . . . . . . . . . . . . 35
-Flusso del Gioco. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
-Ciclo di Gioco Principale. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
-Il Riflettore. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . **35****
-Ordine di Turno & Economia delle Azioni. . . . . . . . . . . . . . . 36
-Effettuare Mosse & Intraprendere Azioni. . . . . . . . . . . . . . . . 36
-Combattimento. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-Stress. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-Attaccare. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-Mappe, Gittata & Movimento. . . . . . . . . . . . . . . . . . . . . . . . . . . 40
-Condizioni. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
-Downtime. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
-Morte. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
-Regole Aggiuntive. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
-Avanzamento di Livello. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
-Multiclasse. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
-Equipaggiamento. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
-Armi. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
-Sedia a Rotelle da Combattimento. . . . . . . . . . . . . . . . . . . . . . . 54
-Armature. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
-Bottino. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
-Consumabili. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60
-**GESTIRE UN'AVVENTURA**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
-Introduzione. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
-Guida del GM. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
-Meccaniche Fondamentali del GM. . . . . . . . . . . . . . . . . . . . . . . 64
-Avversari e Ambienti. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
-Guida Aggiuntiva del GM. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
-Witherwild: Schema di Campagna. . . . . . . . . . . . . . . . . . . . . . 113
-**APPENDICE**. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
-Riferimento Carte Dominio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+[Introduzione](02-INTRODUZIONE.md) (3)
+[Cos'è Questo](02-INTRODUZIONE.md#cos-e-questo) (3)
+[Le Basi](02-INTRODUZIONE.md#le-basi) (3)
+[Creazione del Personaggio](03-CREAZIONE%20DEL%20PERSONAGGIO.md) (4)
 
-# [[SRD/GESTIRE AVVENTURA/GUIDA GM/INTRODUZIONE]]
+###### MATERIALI FONDAMENTALI
+[Domini](/docs/SRD/3-MATERIALI%20FONDAMENTALI/0-DOMINI.md) (7)
+[Classi](/docs/SRD/3-MATERIALI%20FONDAMENTALI/1-CLASSI/1-CLASSI.md) (8)
+[Ascendenze](/docs/SRD/3-MATERIALI%20FONDAMENTALI/2-ASCENDENZE/2-ASCENDENZE.md) (27)
+[Comunità](/docs/SRD/3-MATERIALI%20FONDAMENTALI/3-COMUNITA/3-COMUNITA.md) (32)
+
+###### MECCANICHE DI BASE
+[Flusso del Gioco](/docs/SRD/4-MECCANICHE%20DI%20BASE/01-FLUSSO%20DEL%20GIOCO.md) (35)
+[Principi dei giocatori e migliori pratiche](/docs/SRD/4-MECCANICHE%20DI%20BASE/02-PRINCIPI%20DEI%20GIOCATORI%20E%20MIGLIORI%20PRATICHE.md)(35)
+[Ciclo di Gioco Principale](/docs/SRD/4-MECCANICHE%20DI%20BASE/03-CICLO%20DI%20GIOCO%20PRINCIPALE.md) (35)
+[Il Riflettore](/docs/SRD/4-MECCANICHE%20DI%20BASE/04-IL%20RIFLETTORE.md) (35)
+[Ordine di Turno e Economia delle Azioni](/docs/SRD/4-MECCANICHE%20DI%20BASE/05-ORDINE%20DI%20TURNO%20E%20ECONOMIA%20DELLE%20AZIONI.md)(36)
+[Effettuare Mosse e Intraprendere Azioni](/docs/SRD/4-MECCANICHE%20DI%20BASE/06-EFFETTURARE%20MOSSE%20E%20INTRAPRENDERE%20AZIONI.md)(36)
+[Mosse del GM](/docs/SRD/4-MECCANICHE%20DI%20BASE/07-MOSSE%20DEL%20GM.md) (37)
+[Azioni degli Avversari](/docs/SRD/4-MECCANICHE%20DI%20BASE/08-AZIONI%20DEGLI%20AVVERSARI.md) (37)
+[Tiri Speciali](/docs/SRD/4-MECCANICHE%20DI%20BASE/09-TIRI%20SPECIALI.md) (37)
+[Vantaggio e Svantaggio](/docs/SRD/4-MECCANICHE%20DI%20BASE/010-VANTAGGIO%20E%20SVANTAGGIO.md) (38)
+[Speranza e Paura](/docs/SRD/4-MECCANICHE%20DI%20BASE/011-SPERANZA%20E%20PAURA.md) (38)
+
+[Combattimento](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/012-COMBATTIMENTO.md) (39)
+[Evasione](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/1-EVASIONE.md) (39)
+[Punti Ferita e Soglie di Danno](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/2-PUNTI%20FERITA%20E%20SOGLIE%20DI%20DANNO.md) (39)
+[Stress](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/3-STRESS.md) (39)
+[Attaccare](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/4-ATTACCARE.md) (39)
+[Mappe, Raggio d'Azione e Movimento](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/5-MAPPE%20RAGGIO%20AZIONE%20E%20MOVIMENTO.md)(40)
+[Condizioni](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/6-CONDIZIONI.md) (41)
+[Riposo](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/7-RIPOSO.md) (41)
+[Morte](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/8-MORTE.md) (42)
+[Regole Aggiuntive](/docs/SRD/4-MECCANICHE%20DI%20BASE/012-COMBATTIMENTO/9-REGOLE%20AGGIUNTIVE.md) (42)
+
+[Avanzare di Livello](/docs/SRD/4-MECCANICHE%20DI%20BASE/12-AVANZARE%20DI%20LIVELLO.md) (42)
+[Multiclasse](/docs/SRD/4-MECCANICHE%20DI%20BASE/13-MULTICLASSE.md) (43)
+[Equipaggiamento](/docs/SRD/4-MECCANICHE%20DI%20BASE/14-EQUIPAGGIAMENTO.md) (44)
+[Armi](/docs/SRD/4-MECCANICHE%20DI%20BASE/15-ARMI/15-ARMI.md) (44)
+[Sedia a Rotelle da Combattimento](/docs/SRD/4-MECCANICHE%20DI%20BASE/15-ARMI/18-SEDIA%20A%20ROTELLE%20DA%20COMBATTIMENTO.md) (54)
+[Armature](/docs/SRD/4-MECCANICHE%20DI%20BASE/16-ARMATURE/16-ARMATURE.md) (56)
+[Bottino](/docs/SRD/4-MECCANICHE%20DI%20BASE/17-BOTTINO.md) (58)
+[Consumabili](/docs/SRD/4-MECCANICHE%20DI%20BASE/18-CONSUMABILI.md) (60)
+[Oro](/docs/SRD/4-MECCANICHE%20DI%20BASE/19-ORO.md) (62)
+
+###### GESTIRE UN'AVVENTURA
+
+[Introduzione](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/5-INTRODUZIONE.md) (63)
+[Guida del GM](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/6-GUIDA%20DEL%20GM/6-GUIDA%20DEL%20GM.md) (63)
+[Meccaniche di Base del GM](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/6-GUIDA%20DEL%20GM/7-MECCANICHE%20DI%20BASE%20DEL%20GM.md) (64)
+[Conti alla Rovescia](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/6-GUIDA%20DEL%20GM/8-CONTI%20ALLA%20ROVESCIA.md) (69)
+[Assegnare Oro, Equipaggiamento e Bottino](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/6-GUIDA%20DEL%20GM/9-ASSEGNARE%20ORO%20EQUIPAGGIAMENTO%20E%20BOTTINO.md) (69)
+[Gestire gli NPC del GM](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/6-GUIDA%20DEL%20GM/10-GESTIRE%20GLI%20NPC%20DEL%20GM.md) (69)
+[Meccaniche Opzionali del GM](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/6-GUIDA%20DEL%20GM/11-MECCANICHE%20OPZIONALI%20DEL%20GM.md) (70)
+[Avversari e Ambienti](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/7-AVVERSARI%20E%20AMBIENTI.md) (71)
+[Guida Aggiuntiva del GM](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/8-GUIDA%20AGGIUNTIVA%20DEL%20GM.md) (112)
+[Schemi di Campagna](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/9-SCHEMI%20DI%20CAMPAGNA.md) (113)
+[The Witherwild](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/10-THE%20WITHERWILD.md) (114)
+
+[Appendice](/docs/SRD/6-APPENDICE/6-APPENDICE.md) (119)
+[Riferimento Carte Dominio](/docs/SRD/6-APPENDICE/7-RIFERIMENTO%20CARTE%20DI%20DOMINIO.md) (119)
+
+I numeri fra parentesi si riferiscono ai numeri di pagina del SRD originale

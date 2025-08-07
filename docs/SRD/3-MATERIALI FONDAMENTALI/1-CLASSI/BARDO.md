@@ -6,10 +6,10 @@ I Bardi sono le persone più carismatiche di tutti i reami. I membri di questa c
 **OGGETTI DI CLASSE** - Un romanzo rosa o una lettera mai aperta
 
 ##### **CARATTERISTICA SPERANZA DEL BARDO**
-Metti in Scena: Spendi 3 Speranza per Distrarre temporaneamente un bersaglio a distanza Vicina, dandogli una penalità di -2 alla sua Difficoltà.
+**Metti in Scena: Spendi 3 Speranza** per Distrarre temporaneamente un bersaglio a distanza Vicina, dandogli una penalità di -2 alla sua Difficoltà.
 
 ##### **CARATTERISTICA DI CLASSE**
-Radunare: Una volta per sessione, descrivi come raduni il gruppo e dai a te stesso e a ciascuno dei tuoi alleati un Dado Radunare. Al livello 1, il tuo Dado Radunare è un d6. Un PG può spendere il suo Dado Radunare per tirarlo, aggiungendo il risultato al suo tiro azione, tiro reazione, tiro danno, o per rimuovere un numero di Stress pari al risultato. Alla fine di ogni sessione, azzera tutti i Dadi Radunare non spesi. Al livello 5, il tuo Dado Radunare aumenta a un d8.
+**Radunare:** Una volta per sessione, descrivi come raduni il gruppo e dai a te stesso e a ciascuno dei tuoi alleati un Dado Radunare. Al livello 1, il tuo Dado Radunare è un **d6**. Un PG può spendere il suo Dado Radunare per tirarlo, aggiungendo il risultato al suo tiro azione, tiro reazione, tiro danno, o per rimuovere un numero di Stress pari al risultato. Alla fine di ogni sessione, azzera tutti i Dadi Radunare non spesi. Al livello 5, il tuo Dado Radunare aumenta a un **d8**.
 
 ### SOTTOCLASSI DEL BARDO
 Scegli tra la sottoclassi **Troubadour** o **Wordsmith**.
@@ -25,9 +25,9 @@ Presenza
 
 - **Canzone Rilassante:** Tu e tutti gli alleati a distanza Vicina recuperate un Punto Ferita.
 
-- Canzone Epica: Rendi temporaneamente Vulnerabile un bersaglio a distanza Vicina.
+- **Canzone Epica:** Rendi temporaneamente Vulnerabile un bersaglio a distanza Vicina.
 
-- Canzone Straziante: Tu e tutti gli alleati a distanza Vicina guadagnate una Speranza.
+- **Canzone Straziante:** Tu e tutti gli alleati a distanza Vicina guadagnate una Speranza.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
 **Maestro.** Le tue canzoni di raduno rafforzano il coraggio di coloro che ascoltano. Quando dai un Dado Radunare a un alleato, questi può ottenere una Speranza o azzerare uno Stress.
@@ -38,7 +38,7 @@ Presenza
 #### WORDSMITH
 Gioca il Wordsmith se vuoi usare giochi di parole intelligenti e affascinare le folle.
 
-TRATTO INCANTESIMI
+##### TRATTO INCANTESIMI
 Presenza
 
 ##### CARATTERISTICHE BASE

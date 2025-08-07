@@ -1,0 +1,9 @@
+Quando un PG perde il suo ultimo Punto Ferita, deve effettuare una mossa della morte scegliendo una delle seguenti opzioni:
+
+**Finale Glorioso:** Il tuo personaggio abbraccia la morte e si spegne in una vampata di gloria. Effettua un'ultima azione. Questa ha automaticamente un successo critico (con l'approvazione del GM), e poi attraversi il velo della morte.
+
+**Evitare la Morte:** Il tuo personaggio evita la morte e affronta le conseguenze. Temporaneamente sviene, e poi lavori con il GM per descrivere come la situazione peggiora. Mentre è incosciente, il tuo personaggio non può muoversi o agire, e non può essere bersagliato da un attacco. Torna cosciente quando un alleato gli guarisce 1 o più dei suoi Punti Ferita persi o quando il gruppo termina un riposo lungo. Dopo che il tuo personaggio sviene, tira il tuo dado Speranza. Se il suo valore è uguale o inferiore al livello del tuo personaggio, guadagna una cicatrice: barra permanentemente una casella Speranza e lavora con il GM per determinarne l'impatto narrativo duraturo e come, se possibile, può essere ripristinata. Se mai barrerai la tua ultima casella Speranza, il viaggio del tuo personaggio finisce.
+
+**Rischia Tutto:** Tira i tuoi Dadi della Dualità. Se il dado Speranza è più alto, il tuo personaggio rimane in piedi e recupera un numero di Punti Ferita o Stress pari al valore del dado Speranza (puoi dividere il valore tra Punti Ferita e Stress come preferisci). Se il dado Paura è più alto, il tuo personaggio attraversa il velo della morte. Se i Dadi della Dualità mostrano risultati corrispondenti, il tuo personaggio rimane in piedi e recupera tutti i Punti Ferita e lo Stress.
+
+Se il tuo personaggio muore, collabora con il GM prima della prossima sessione per creare un nuovo personaggio al livello attuale del resto del gruppo.

@@ -1,0 +1,5 @@
+Le tue armi e armature **equipaggiate** sono quelle elencate nelle sezioni "Armi Attive" e "Armatura Attiva" della tua scheda personaggio. Il tuo personaggio può attaccare solo con armi, beneficiare dell'armatura e ottenere caratteristica dagli oggetti che ha equipaggiato. Non puoi equipaggiare armi o armature con un Tier superiore al tuo. 
+
+I PG possono portare fino a due armi aggiuntive nelle aree "Inventario Armi" della scheda personaggio. Puoi scambiare una arma in inventario con un' arma attiva' senza costo durante un riposo o un momento di calma;  altrimenti, devi segnare uno Stress per farlo.
+
+Il tuo personaggio può avere solo un'Armatura Attiva alla volta. Non può equipaggiare armature mentre è in pericolo o sotto pressione; altrimenti, può equipaggiare o rimuovere armature senza costo. Ogni armatura ha i suoi Slot Armatura; se il tuo personaggio rimuove la sua armatura, tieni traccia di quanti dei suoi Slot Armatura sono segnati.  Non puoi portare armature nel tuo inventario. Quando il tuo personaggio equipaggia o rimuove armature, ricalcola le tue soglie di danno.

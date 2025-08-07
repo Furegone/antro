@@ -77,8 +77,8 @@ Finezza
 
 - Quando effettui un Tiro Presenza in conversazione, ti supporta. Puoi tirare un d20 come tuo dado Speranza.
 
-> - **DOMANDE DI BACKGROUND**
-> - Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
+> **DOMANDE DI BACKGROUND**
+> Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 > 
 > - Cosa ti ha portato ad essere scoperto a fare che ti ha esiliato dalla tua Comunità?
 > 
@@ -86,8 +86,8 @@ Finezza
 > 
 > - Chi dal tuo passato ti è stato più triste salutare?
 > 
-> - **LEGAMI**
-> > - Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
+> **LEGAMI**
+> Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
 > 
 > - Cosa ti ho recentemente convinto a fare che ci ha messo entrambi nei guai?
 > 

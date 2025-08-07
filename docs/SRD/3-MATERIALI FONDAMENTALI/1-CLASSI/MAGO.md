@@ -52,7 +52,7 @@ CARATTERISTICHE BASE
 **Non ho Paura**: Il danno magico extra della tua funzione "Affronta la Paura" aumenta a **3d10**.
 
 > **DOMANDE DI BACKGROUND**
-> >Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
+> Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 > 
 > - Quali responsabilità la tua Comunità si aspettava da te? Come li hai delusi?
 > 
@@ -61,7 +61,7 @@ CARATTERISTICHE BASE
 > - Hai un potente rivale. Chi è, e perché sei così determinato a sconfiggerlo?
 > 
 > **LEGAMI**
->> Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
+> Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
 > 
 > - Quale favore ti ho chiesto che non sei sicuro di poter esaudire?
 > 

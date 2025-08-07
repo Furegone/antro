@@ -58,7 +58,7 @@ Agilità
 > **DOMANDE DI BACKGROUND**
 > Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 > 
-> - Una terribile creatura ha ferito la tua comunita, e hai giurato di dargli la caccia. Cos'è, e quale traccia o segno unico lascia dietro di sé?
+> - Una terribile creatura ha ferito la tua comunità, e hai giurato di dargli la caccia. Cos'è, e quale traccia o segno unico lascia dietro di sé?
 > 
 > - La tua prima uccisione ha quasi ucciso anche te. Cos'era, e quale parte di te non è mai più stata la stessa dopo quell'evento?
 > 

@@ -15,13 +15,13 @@ Ci sono 9 classi nei materiali base di Daggerheart: Bardo, Druido, Guardiano, Ra
 #### SOTTOCLASSI
 Ogni classe è divisa in due **sottoclassi**, ognuna delle quali definisce e mette ulteriormente in risalto un aspetto del suo archetipo di classe. La sottoclasse scelta garantisce quanto segue:
 
-- Tratto Incantesimi: il tratto usato su tutti i tiri Incantesimo.
+- **Tratto Incantesimi:** il tratto usato su tutti i tiri Incantesimo.
 
-- Caratteristica Base: una caratteristica iniziale unica che stabilisce l'identità e i punti di forza della sottoclasse
+- **Caratteristica Base:** una caratteristica iniziale unica che stabilisce l'identità e i punti di forza della sottoclasse
 
-- Caratteristica di Specializzazione: una caratteristica avanzata che può essere ottenuta salendo di livello. Per alcune sottoclassi, la caratteristica di specializzazione garantisce una nuova abilità; per altre, espande o migliora una caratteristica che hai già acquisito tramite una classe o sottoclasse.
+- **Caratteristica di Specializzazione:** una caratteristica avanzata che può essere ottenuta salendo di livello. Per alcune sottoclassi, la caratteristica di specializzazione garantisce una nuova abilità; per altre, espande o migliora una caratteristica che hai già acquisito tramite una classe o sottoclasse.
 
-- Caratteristica di Maestria: La caratteristica di maestria è la caratteristica più potente di una sottoclasse, che può essere ottenuta a livelli più alti. Per alcune sottoclassi, la caratteristica di maestria sblocca un'abilità straordinaria; per altre, è l'impressionante culmine della caratteristica principale della loro sottoclasse.
+- **Caratteristica di Maestria:** La caratteristica di maestria è la caratteristica più potente di una sottoclasse, che può essere ottenuta a livelli più alti. Per alcune sottoclassi, la caratteristica di maestria sblocca un'abilità straordinaria; per altre, è l'impressionante culmine della caratteristica principale della loro sottoclasse.
 
 Il set base di Daggerheart include carte che dettagliando ogni caratteristica base, di specializzazione e di maestria. Quando acquisisci una di queste caratteristiche, prendi la sua carta per usarla come riferimento durante il gioco.
 

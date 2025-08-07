@@ -6,7 +6,7 @@ Il titolo di Guardiano rappresenta un ventaglio di professioni marziali, definit
 **OGGETTI DI CLASSE** - Un totem del tuo mentore o una chiave segreta
 
 ##### CARATTERISTICA SPERANZA DEL GUARDIAN
-Carro Armato in Prima Linea: Spendi 3 Speranza per azzerare 2 Slot Armatura.
+**Tank  in Prima Linea: Spendi 3 Speranza** per azzerare 2 Slot Armatura.
 
 ##### CARATTERISTICA DI CLASSE
 **Inarrestabile:** Una volta per riposo lungo, puoi diventare Inarrestabile. Ottieni un Dado Inarrestabile. Al livello 1, il tuo Dado Inarrestabile è un **d4**. Posizionalo sulla tua scheda del personaggio nello spazio fornito, iniziando con il valore 1 rivolto verso l'alto. Dopo aver effettuato un tiro danno che infligge 1 o più Punti Ferita a un bersaglio, aumenta il valore del Dado Inarrestabile di uno. Quando il valore del dado supera il suo valore massimo o quando la scena termina, rimuovi il dado e esci da Inarrestabile. Al livello 5, il tuo Dado Inarrestabile aumenta a un **d6**.

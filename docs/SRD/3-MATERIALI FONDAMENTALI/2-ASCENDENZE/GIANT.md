@@ -1,5 +1,5 @@
 I giganti sono umanoidi imponenti con spalle larghe, braccia lunghe e da uno a tre occhi. I giganti adulti variano da 2 a 2,6 metri di altezza e sono naturalmente muscolosi, indipendentemente dal tipo di corpo. Sono facilmente riconoscibili per le loro ampie corporature e le braccia e i colli allungati. Sebbene possano avere fino a tre occhi, tutti i giganti nascono senza e rimangono ciechi per il loro primo anno di vita. Fino a quando un gigante non raggiunge l'età di 10 anni e le sue caratteristiche non si sviluppano completamente, la formazione dei loro occhi può fluttuare. Quelli con un solo occhio sono comunemente noti come ciclopi. L'aspettativa di vita media di un gigante è di circa 75 anni.
 
-##### CARATTERISTICA DI ASCENDENZA
+##### CARATTERISTICHE DI ASCENDENZA
 **Resistenza:** Ottieni uno slot Punto Ferita aggiuntivo alla creazione del personaggio.  
 **Portata:** Tratta qualsiasi arma, abilità, incantesimo o altra caratteristica che ha un raggio Mischia come se avesse invece un raggio Molto Vicino.

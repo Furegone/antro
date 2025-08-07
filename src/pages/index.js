@@ -7,13 +7,14 @@ export default function Home() {
   return (
     <Layout
       title="Home"
-      description="Benvenuto nella home di Docusaurus">
+      description="Benvenuto nella home di Furegone">
       
       <main className={styles.mainContainer}>
         {/* Le due colonne (affiancate su desktop, verticali su mobile) */}
         <section className={styles.quickLinks}>
   <div className={styles.buttonsRow}>
     <a className={styles.quickButton} href="/antro/docs/SRD/DAGGERHEART">Daggerheart SRD</a>
+        <a className={styles.quickButton} href="/antro/grid">Links</a>
   </div>
 </section>
         <section className={styles.columnsContainer}>

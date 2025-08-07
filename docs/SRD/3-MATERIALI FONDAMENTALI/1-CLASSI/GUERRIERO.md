@@ -48,7 +48,7 @@ Gioca la Call of the Slayer se vuoi abbattere gli avversari con immensa forza.
 **Preparazione Marziale:** Sei un guerriero ispiratore per tutti coloro che viaggiano con te. Il tuo party ottiene accesso alla mossa di riposo "Preparazione Marziale". Per usare questa mossa durante un riposo, descrivi come istruisci e ti alleni con il tuo party. Tu e ogni alleato che sceglie questa mossa di riposo guadagnate un **d6** Dado dello Sterminatore. Un PG con un Dado dello Sterminatore può spenderlo per tirare il dado e aggiungere il risultato a un tiro attacco o danno a sua scelta.
 
 > **DOMANDE DI BACKGROUND**
-> >Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
+> Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.
 > 
 > - Chi ti ha insegnato a combattere, e perché sono rimasti indietro quando hai lasciato casa?
 > 
@@ -57,7 +57,7 @@ Gioca la Call of the Slayer se vuoi abbattere gli avversari con immensa forza.
 > - Quale luogo leggendario hai sempre voluto visitare, e perché è così speciale?
 > 
 > **LEGAMI**
-> >Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
+> Chiedi ai tuoi compagni di gioco una delle seguenti domande a cui il loro personaggio dovrà rispondere, oppure crea le tue domande.
 > 
 > - Ci conoscevamo molto prima che questo party si formasse. Come?
 > 

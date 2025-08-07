@@ -14,7 +14,7 @@ Diventare un druido è più di un'occupazione; è una vocazione per coloro che d
 **Tocco Selvaggio:** Puoi eseguire effetti innocui e sottili che coinvolgono la natura — come far crescere rapidamente un fiore, evocare una leggera raffica di vento o accendere un falò — a volontà.
 
 ### SOTTOCLASSI DEL DRUIDO
-Scegli tra la sottoclasse Warden of the Elements o Warden of Renewal.
+Scegli tra la sottoclasse **Warden of the Elements** o **Warden of Renewal**.
 
 #### WARDEN OF THE ELEMENTS
 Gioca il Warden of the Elements se vuoi incarnare gli elementi naturali della natura selvaggia.

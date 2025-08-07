@@ -24,7 +24,7 @@ Grazia è il dominio del carisma. Attraverso una narrazione estasiante, incantes
 Oscurità è il dominio delle ombre e del segreto. Che sia tramite astuti trucchi, abile magia o il manto della notte, coloro che incanalano queste forze praticano l'arte dell'oscurità e possono scoprire tesori nascosti. Oscurità offre ai praticanti il potere di controllare e creare enigmi. Il dominio Oscurità può essere utilizzato dalle classi Ladro e Stregone.
 #### SAGGIO
 ![sage](./immagini/sage.png)
-Saggio è il dominio del mondo naturale. Coloro che percorrono questo sentiero attingono al potere sfrenato della terra e delle sue creature per scatenare magia pura. Saggio concede ai suoi adepti la vitalità di un fiore in boccio e la ferocia di un predatore famelico. Il dominio Saggio può essere utilizzato dalle classi Druido e Ranger.
+Saggio è il dominio del mondo naturale. Coloro che percorrono questo sentiero attingono al potere sfrenato della terra e delle sue creature per scatenare magia pura. Saggio concede ai suoi adepti la vitalità di un fiore in bocciolo e la ferocia di un predatore famelico. Il dominio Saggio può essere utilizzato dalle classi Druido e Ranger.
 #### SPLENDORE
 ![splendor](./immagini/splendor.png)
 Splendore è il dominio della vita. Attraverso questa magia, i seguaci ottengono la capacità di guarire e, in una certa misura, di controllare la morte. Splendore offre ai suoi discepoli la magnifica capacità di dare e di porre fine alla vita. Il dominio Splendore può essere utilizzato dalle classi Serafino e Mago.
@@ -86,9 +86,9 @@ La tua **dotazione** è l'insieme di carte di dominio acquisite i cui effetti il
 > **Nota:** Le tue carte sottoclasse, Ascendenze e Comunità non contano per la tua dotazione o riserva e sono sempre attive e disponibili.
 
 All'inizio di un riposo, prima di usare le mosse di riposo, puoi liberamente spostare le carte tra la tua dotazione e la tua riserva, purché la tua dotazione non superi il massimo di cinque carte. Per spostare una carta dalla tua riserva alla tua dotazione in qualsiasi altro momento, devi segnare un numero di Stress pari al Costo di Richiamo della carta in riserva (situato in alto a destra della carta, accanto al simbolo del fulmine). Se la tua dotazione è già piena, devi anche spostare una carta dalla tua dotazione alla tua riserva per fare spazio, anche se puoi farlo senza costi.
-Quando ottieni una nuova carta di dominio al livello-up, puoi spostarla immediatamente nella tua dotazione gratuitamente. Se la tua dotazione è già piena, devi anche spostare una carta dalla tua dotazione alla tua riserva per fare spazio.
+Quando ottieni una nuova carta di dominio salendo di livello, puoi spostarla immediatamente nella tua dotazione gratuitamente. Se la tua dotazione è già piena, devi anche spostare una carta dalla tua dotazione alla tua riserva per fare spazio.
 
 ##### LIMITI D'USO
 Se una carta Dominio limita la frequenza con cui può essere usata, puoi tenere traccia di tali limiti con il metodo che preferisci, come girare la carta di lato, capovolgerla a faccia in giù o usare dei segnalini.
 
-Nota: se un effetto o un'abilità ti concede un numero di usi pari a un tratto con un modificatore di +0 o meno, ti concede 0 usi.
+> Nota: se un effetto o un'abilità ti concede un numero di usi pari a un tratto con un modificatore di +0 o meno, ti concede 0 usi.

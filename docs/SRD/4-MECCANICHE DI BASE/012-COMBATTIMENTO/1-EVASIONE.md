@@ -1,0 +1,1 @@
+L'**Evasione** rappresenta la capacità di un personaggio di evitare attacchi e altri effetti indesiderati. Qualsiasi tiro effettuato contro un PG ha una Difficoltà pari all'Evasione del bersaglio. L'Evasione base di un PG è determinata dalla sua classe, ma può essere modificata da carte di dominio, equipaggiamento, condizioni e altri effetti.
