@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkantro_del_furegone=self.webpackChunkantro_del_furegone||[]).push([[5357],{8907:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/antro/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

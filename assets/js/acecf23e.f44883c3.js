@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkantro_del_furegone=self.webpackChunkantro_del_furegone||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/antro/blog","blogTitle":"Blog","authorsListPath":"/antro/blog/authors"}')}}]);
