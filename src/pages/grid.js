@@ -91,19 +91,8 @@ export default function GridPage() {
       },
             {
         title: 'Carte Di Dominio',
-        text: 'Liste complete delle carte.',
+        text: 'Liste complete delle carte.In Revisione',
         background: '#362847ff',
-        links: [
-          { label: 'ARCANO', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-arcano' },
-          { label: 'LAMA', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-lama' },
-          {  label: 'OSSA', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-ossa' },
-          { label: 'CODICE', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-codice' },
-          { label: 'GRAZIA', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-grazia' },
-          { label: 'OSCURITA', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-oscurita' },
-          { label: 'SAGGIO', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-saggio' },
-          { label: 'SPLENDORE', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-splendore' },
-          { label: 'VALORE', to: 'docs/SRD/APPENDICE/RIFERIMENTO%20CARTE%20DI%20DOMINIO#dominio-valore' },
-        ],
       },      
     ],
   ];

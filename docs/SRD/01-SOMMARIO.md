@@ -1,5 +1,5 @@
 [Introduzione](02-INTRODUZIONE.md) (3)
-[Cos'è Questo](02-INTRODUZIONE.md#cos-e-questo) (3)
+[Cos'è Questo](02-INTRODUZIONE.md) (3)
 [Le Basi](02-INTRODUZIONE.md#le-basi) (3)
 [Creazione del Personaggio](03-CREAZIONE%20DEL%20PERSONAGGIO.md) (4)
 
