@@ -2,11 +2,10 @@ import React from 'react';
 import styles from './HomepageFeatures/styles.module.css';
 
 const projects = [
-  { name: 'Traduzione SRD', progress: 85 },
-  { name: 'Strumenti GM', progress: 20 },
+  { name: 'Traduzione SRD', progress: 100 },
+  { name: 'Revisione Carte', progress: 20 },
   { name: 'Void', progress: 10 },
   { name: 'GM Screen', progress: 0 },
-  { name: 'Altro Materiale', progress: 0 },
 ];
 
 function getColor(progress) {

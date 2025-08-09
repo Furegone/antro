@@ -24,8 +24,8 @@ Per comodità, ho deciso di **non tradurre i titoli delle carte, i nomi degli av
 Puoi navigare i contenuti di questo sito tramite molteplici strumenti e pagine dedicate:
 
 [Sommario](01-SOMMARIO.md) *(basato sul sommario del SRD Originale)*
-Contenuti Rapidi *(contenuti raggruppati per tipo)*
-Glossario *(una lista dei termini usati)*
+[Contenuti Rapidi](/antro/grid) *(contenuti raggruppati per tipo)*
+Glossario *(una lista dei termini usati)* **work in progress**
 Funzione Ricerca *(casella di ricerca in alto a destra)*
 Barra Laterale a Sinistra
 Barra Laterale a Destra *(per documenti con più capitoli)*
