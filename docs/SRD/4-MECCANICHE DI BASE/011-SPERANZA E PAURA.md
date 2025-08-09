@@ -11,8 +11,8 @@ I giocatori possono spendere Speranza per:
 - **Utilizzare un'Esperienza**  
 -Quando utilizzi un'Esperienza su un tiro rilevante, aggiungi il suo modificatore al risultato. Puoi spendere più Speranza per utilizzare più Esperienze.
 
-- **Iniziare un  tiro Tag Team**  
--Spendi 3 Speranza per iniziare un tiro Tag Team, combinando le azioni di due PG in un'impressionante atto di sinergia. Quando effettui un tiro Tag Team, entrambi i giocatori tirano i loro tiri azione e poi scelgono quale set di risultati applicare all'esito.
+- **Iniziare un  Tiro Azione di Squadra**  
+-Spendi 3 Speranza per iniziare un Tiro Azione di Squadra, combinando le azioni di due PG in un'impressionante atto di sinergia. Quando effettui un Tiro Azione di Squadra, entrambi i giocatori tirano i loro tiri azione e poi scelgono quale set di risultati applicare all'esito.
 
 - **Attivare una Caratteristica Speranza**
 -Una Caratteristica Speranza è qualsiasi effetto che ti permette (o richiede) di spendere una quantità specificata di Speranza per attivarla. Le caratteristiche di classe che usano Speranza sono caratteristiche specifiche della classe, dettagliate sulla tua scheda personaggio, che costano 3 Speranza per essere attivate.

@@ -23,7 +23,7 @@ Gioca il Warden of the Elements se vuoi incarnare gli elementi naturali della na
 Istinto
 
 ##### CARATTERISTICA BASE
-**Incarnazione Elementale**: Segna uno Stress per Incanalare uno dei seguenti elementi finché non subisci danni Severi o fino al tuo prossimo riposo:
+**Incarnazione Elementale**: Segna uno Stress per Incanalare uno dei seguenti elementi finché non subisci danni Gravi o fino al tuo prossimo riposo:
 
 **Fuoco:** Quando un avversario a distanza Vicina ti infligge danni, subisce **1d10** danni magici.
 
@@ -268,7 +268,7 @@ Mischia Forza d12+12 Fisico
 Forza +3 | Evasione +2
 Mischia Forza d12+10 Fisico
 **Ottieni vantaggio in:** attaccare, ingannare, spaventare, tracciare
-**Colpi Devastanti:** Quando infliggi danni Severi a un bersaglio a distanza Vicina, puoi **segnare uno Stress** per costringerlo a perdere un Punto Ferita aggiuntivo.
+**Colpi Devastanti:** Quando infliggi danni Gravi a un bersaglio a distanza Vicina, puoi **segnare uno Stress** per costringerlo a perdere un Punto Ferita aggiuntivo.
 **Passo Massiccio:** Puoi muoverti fino a distanza Lontana senza tirare. Ignori il terreno difficile (a discrezione del GM) a causa della tua taglia.
 
 ##### MYTHIC AERIAL HUNTER

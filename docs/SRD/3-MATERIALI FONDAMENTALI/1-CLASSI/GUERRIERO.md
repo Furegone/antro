@@ -33,7 +33,7 @@ Gioca la Call of the Brave se vuoi usare la forza dei tuoi nemici per alimentare
 **Accetta la Sfida:** Sei vigile di fronte al crescente pericolo. Mentre hai 2 o meno Punti Ferita rimanenti, puoi tirare un d20 come tuo Dado Speranza.
 
 ##### CARATTERISTICA DI MAESTRIA
-**Cameratismo:** La tua incrollabile audacia è un punto di riferimento per i tuoi alleati. Puoi avviare un Tiro Tag Team una volta aggiuntiva per sessione. Inoltre, quando un alleato avvia un Tiro Tag Team con te, deve spendere solo 2 Speranza per farlo.
+**Cameratismo:** La tua incrollabile audacia è un punto di riferimento per i tuoi alleati. Puoi avviare un Tiro Azione di Squadra una volta aggiuntiva per sessione. Inoltre, quando un alleato avvia un Tiro Azione di Squadra con te, deve spendere solo 2 Speranza per farlo.
 
 #### CALL OF THE SLAYER
 Gioca la Call of the Slayer se vuoi abbattere gli avversari con immensa forza.

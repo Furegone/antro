@@ -35,7 +35,7 @@ Istinto
 ##### CARATTERISTICA DI MAESTRIA
 **Trascendenza:** Una volta per riposo lungo, puoi trasformarti in una manifestazione fisica del tuo elemento. Quando lo fai, descrivi la tua trasformazione e scegli due dei seguenti benefici da ottenere fino al tuo prossimo riposo:
 
-- Bonus di +4 alla tua soglia Severa
+- Bonus di +4 alla tua soglia Grave
 
 - Bonus di +1 a un Trattot a tua scelta
 

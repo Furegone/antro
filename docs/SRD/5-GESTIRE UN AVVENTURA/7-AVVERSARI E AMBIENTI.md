@@ -33,7 +33,7 @@ Impulsi, azioni e obiettivi suggeriti per l'avversario.
 La Difficoltà di qualsiasi tiro fatto contro l'avversario, salvo diversa indicazione.
 
 ##### SOGLIE DI DANNO, PUNTI FERITA E STRESS
-Questi sistemi funzionano allo stesso modo per i PG. I numeri elencati dopo "Soglie" sono le soglie Maggiori e Severe dell'avversario.
+Questi sistemi funzionano allo stesso modo per i PG. I numeri elencati dopo "Soglie" sono le soglie Maggiori e Gravi dell'avversario.
 
 ##### MODIFICATORE DI ATTACCO
 Quando attacchi con l'avversario, applica questo bonus o penalità al tuo tiro attacco.
@@ -108,7 +108,7 @@ Quando un avversario perde il suo ultimo Punto Ferita, viene sconfitto: incapaci
 | Modificatore di Attacco | +1                   | +2                    | +3                    | +4                    |
 | Dadi Danno              | 1d6+2 a 1d12+4       | 2d6+3 a 2d12+4        | 3d8+3 a 3d12+5        | 4d8+10 a 4d12+15      |
 | Difficoltà              | 11                   | 14                    | 17                    | 20                    |
-| Soglie di Danno         | Maggiore 7/Severa 12 | Maggiore 10/Severa 20 | Maggiore 20/Severa 32 | Maggiore 25/Severa 45 |
+| Soglie di Danno         | Maggiore 7/Grave 12 | Maggiore 10/Grave 20 | Maggiore 20/Grave 32 | Maggiore 25/Grave 45 |
 
 
 [Avversari per Tier](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/8-AVVERSARI/AVVERSARI%20PER%20TIER.md)

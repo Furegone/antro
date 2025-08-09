@@ -45,7 +45,7 @@ Gioca il Wayfinder se vuoi cacciare la tua preda e colpire con forza letale.
 Agilità
 
 ##### CARATTERISTICHE BASE
-**Predatore Spietato:** Quando effettui un tiro danno, puoi segnare uno Stress per ottenere un bonus di +1 alla tua Competenza. Inoltre, quando infliggi danni Severi a un avversario, deve segnare uno Stress.
+**Predatore Spietato:** Quando effettui un tiro danno, puoi segnare uno Stress per ottenere un bonus di +1 alla tua Competenza. Inoltre, quando infliggi danni Gravi a un avversario, deve segnare uno Stress.
 **Sentiero Rivelato:** Quando ti stai recando in un luogo che hai già visitato o porti un oggetto che è già stato in quel luogo, puoi identificare il percorso più breve e diretto verso la tua destinazione.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE

@@ -69,7 +69,7 @@ Una creatura capricciosa con arti esili e desideri insaziabili.
 **Mente non protetta – *Passiva*:** L'attacco standard del Demon infligge danni diretti.
 **È il mio turno – *Reazione*:** Quando il Demon segna PF da un attacco, spendi un numero di Paura pari ai PF segnati dal Demon per far sì che l'aggressore segni lo stesso numero di PF.
 **Rivalità – *Reazione*:** Quando una creatura a distanza Vicina subisce danni da un altro avversario, puoi segnare uno Stress per aggiungere un d4 al tiro per il danno.
-**Ciò che è tuo è mio – *Reazione*:** Quando un PG subisce danni Severi a distanza Molto Vicina dal Demon, puoi spendere una Paura per far fare al bersaglio un tiro reazione di Finezza. In caso di fallimento, il Demon si impadronisce di un oggetto o di un consumabile a sua scelta dall'inventario del bersaglio.
+**Ciò che è tuo è mio – *Reazione*:** Quando un PG subisce danni Gravi a distanza Molto Vicina dal Demon, puoi spendere una Paura per far fare al bersaglio un tiro reazione di Finezza. In caso di fallimento, il Demon si impadronisce di un oggetto o di un consumabile a sua scelta dall'inventario del bersaglio.
 
 ##### DEMON OF WRATH
 **Tier 3 Picchiatore**

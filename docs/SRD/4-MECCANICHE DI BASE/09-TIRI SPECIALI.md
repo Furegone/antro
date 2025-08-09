@@ -16,14 +16,14 @@ I **tiri incantesimo** sono tiri dei tratti che richiedono l'uso del tuo tratto 
 ##### TIRI REAZIONE
 Un **tiro reazione** viene effettuato in risposta a un attacco o a un pericolo, rappresentando il tentativo di un personaggio di evitare o resistere a un effetto imminente. I tiri di reazione funzionano come i tiri azione, tranne per il fatto che non generano Speranza o Paura, non attivano mosse GM aggiuntive e altri personaggi non possono aiutarti con Aiuta un Alleato. Se ottieni un successo critico su un tiro di reazione, non elimini uno Stress o guadagni una Speranza, ma ignori qualsiasi effetto che ti avrebbe colpito in caso di successo, come subire danni o segnare Stress.
 
-##### TIRI AZIONE DI GRUPPO
+##### TIRI COLLETTIVI
 Quando più PG agiscono insieme, il gruppo sceglie un PG per **condurre l'azione**. Ogni altro giocatore descrive quindi come il proprio personaggio collabora al compito. Il leader effettua un tiro azione come di consueto, mentre gli altri giocatori effettuano tiri di reazione utilizzando i tratti che loro e il GM ritengono più adatti. Il personaggio principale ottiene un bonus di +1 al suo tiro azione principale per ogni tiro di reazione che ha avuto successo e una penalità di -1 per ogni tiro di reazione che ha fallito.
 
-##### TIRI TAG TEAM
-Ogni giocatore può, una volta per sessione, iniziare un **tiro Tag Team** tra il proprio personaggio e un altro PG **spendendo 3 Speranza**. I giocatori collaborano per descrivere come combinano le loro azioni in un modo unico ed eccitante. Entrambi i giocatori effettuano tiri azione separati; prima di risolvere l'esito del tiro, scegli uno dei tiri da applicare a entrambe le azioni. Su un tiro con Speranza, tutti i PG coinvolti guadagnano una Speranza. Su un tiro con Paura, il GM guadagna un token Paura per ogni PG coinvolto.
+##### TIRI AZIONE DI SQUADRA
+Ogni giocatore può, una volta per sessione, iniziare un **Tiro Azione di Squadra** tra il proprio personaggio e un altro PG **spendendo 3 Speranza**. I giocatori collaborano per descrivere come combinano le loro azioni in un modo unico ed eccitante. Entrambi i giocatori effettuano tiri azione separati; prima di risolvere l'esito del tiro, scegli uno dei tiri da applicare a entrambe le azioni. Su un tiro con Speranza, tutti i PG coinvolti guadagnano una Speranza. Su un tiro con Paura, il GM guadagna un token Paura per ogni PG coinvolto.
 
-Su un tiro Tag Team riuscito, entrambi i giocatori tirano i danni e sommano i totali per determinare il danno inflitto, che viene quindi trattato come se provenisse da una singola fonte. Se gli attacchi infliggono diversi tipi di danno, i giocatori scelgono quale tipo infliggere.
+Su un Tiro Azione di Squadra riuscito, entrambi i giocatori tirano i danni e sommano i totali per determinare il danno inflitto, che viene quindi trattato come se provenisse da una singola fonte. Se gli attacchi infliggono diversi tipi di danno, i giocatori scelgono quale tipo infliggere.
 
 > **Nota:**  
-> Un tiro Tag Team conta come un singolo tiro azione ai fini di eventuali conto alla rovescia o caratteristiche che tracciano i tiri azione.  
->  > Anche se ogni giocatore può avviare solo un tiro Tag Team per sessione, un PG può essere coinvolto in più tiri Tag Team.
+> Un Tiro Azione di Squadra conta come un singolo tiro azione ai fini di eventuali conto alla rovescia o caratteristiche che tracciano i tiri azione.  
+>  > Anche se ogni giocatore può avviare solo un Tiro Azione di Squadra per sessione, un PG può essere coinvolto in più tiri Tag Team.
