@@ -2,15 +2,15 @@ Sta a te e ai tuoi giocatori quanta importanza dare a oro, equipaggiamento e bot
 
 | Beni                                          | Prezzo       |
 | --------------------------------------------- | ------------ |
-| Pasti per un gruppo di avventurieri per notte | 1 Handful    |
-| Stanza d'albergo standard per notte           | 1 Handful    |
-| Stanza d'albergo di lusso per notte           | 1 Bag        |
+| Pasti per un gruppo di avventurieri per notte | 1 Manciata    |
+| Stanza d'albergo standard per notte           | 1 Manciata    |
+| Stanza d'albergo di lusso per notte           | 1 Sacco     |
 | Corsa in carrozza                             | 2 Manciate   |
-| Cavalcatura (cavallo, mulo, ecc.)             | 3 Bags       |
+| Cavalcatura (cavallo, mulo, ecc.)             | 3 Sacchi      |
 | Strumenti specializzati                       | 3 Manciate   |
 | Vestiti raffinati                             | 3 Manciate   |
-| Vestiti di lusso                              | 1 Bag        |
+| Vestiti di lusso                              | 1 Sacco       |
 | Equipaggiamento di livello 1 (armi, armature) | 1-5 Manciate |
-| Equipaggiamento di livello 2 (armi, armature) | 1-2 Bags     |
-| Equipaggiamento di livello 3 (armi, armature) | 5-10 Bags    |
-| Equipaggiamento di livello 4 (armi, armature) | 1-2 Chests   |
+| Equipaggiamento di livello 2 (armi, armature) | 1-2 Sacchi    |
+| Equipaggiamento di livello 3 (armi, armature) | 5-10 Sacchi    |
+| Equipaggiamento di livello 4 (armi, armature) | 1-2 Casse   |

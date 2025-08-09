@@ -2,7 +2,7 @@ I **Punti Ferita (PF)** rappresentano la capacità di un personaggio di resister
 
 - Se il danno finale è uguale o superiore alla soglia Grave del personaggio, perde 3 PF.
 
-- Se il danno finale è uguale o superiore alla soglia Maggiore del personaggio ma inferiore alla sua soglia Severa, perde 2 PF.
+- Se il danno finale è uguale o superiore alla soglia Maggiore del personaggio ma inferiore alla sua soglia Grave, perde 2 PF.
 
 - Se il danno in arrivo è inferiore alla soglia Maggiore del personaggio, perde1 PF.
 
