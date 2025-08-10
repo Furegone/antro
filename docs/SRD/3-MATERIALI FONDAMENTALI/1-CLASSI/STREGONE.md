@@ -37,7 +37,7 @@ Istinto
 
 - Bonus di +4 alla tua soglia Grave
 
-- Bonus di +1 a un Tratto a tua scelta
+- Bonus di +1 ad un Tratto a tua scelta
 
 - Bonus di +1 alla tua Competenza
 
@@ -64,7 +64,7 @@ Istinto
 **Aiuto Incantato:** Puoi potenziare la magia degli altri con la tua essenza. Quando aiuti un Alleato con un Tiro Incantesimi, puoi tirare un **d8** come tuo dado vantaggio. Una volta per riposo lungo, dopo che un alleato ha effettuato un Tiro Incantesimi con il tuo aiuto, puoi scambiare i risultati dei loro Dadi della Dualità.
 
 ##### CARATTERISTICA DI MAESTRIA
-**Carica Arcana:** Puoi accumulare energia magica per migliorare le tue capacità. Quando subisci danni magici, diventi Carico. In alternativa, puoi spendere 2 Speranza per diventare Carico. Quando effettui con successo un attacco che infligge danni magici mentre sei Carico, puoi annullare la tua Carica per ottenere un bonus di +10 al tiro danno o un bonus di +3 alla Difficultà di un tiro reazione che l'incantesimo causa al bersaglio. Smetti di essere Carico al tuo prossimo riposo lungo.
+**Carica Arcana:** Puoi accumulare energia magica per migliorare le tue capacità. Quando subisci danni magici, diventi Carico. In alternativa, puoi spendere 2 Speranza per diventare Carico. Quando effettui con successo un attacco che infligge danni magici mentre sei Carico, puoi annullare la tua Carica per ottenere un bonus di +10 al tiro danno o un bonus di +3 alla Difficoltà di un tiro reazione che l'incantesimo causa al bersaglio. Smetti di essere Carico al tuo prossimo riposo lungo.
 
 > **DOMANDE DI BACKGROUND**
 > Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.

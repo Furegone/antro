@@ -36,7 +36,7 @@ Prendi la scheda Compagno del Ranger. Quando sali di livello con il tuo personag
 
 ##### CARATTERISTICHE DI MAESTRIA
 **Addestramento Avanzato:** Scegli due opzioni di aumento di livello aggiuntive per il tuo compagno.
-**Amico Leale:** Una volta per riposo lungo, quando il danno di un attacco marcherebbe l'ultimo Stress del tuo compagno o il tuo ultimo Punto Ferita e siete a distanza Vicina l'uno dall'altro, tu o il tuo compagno potete correre al fianco dell'altro e subire invece quel danno.
+**Amico Leale:** Una volta per riposo lungo, quando il danno di un attacco segnerebbe l'ultimo Stress del tuo compagno o il tuo ultimo Punto Ferita e siete a distanza Vicina l'uno dall'altro, tu o il tuo compagno potete correre al fianco dell'altro e subire invece quel danno.
 
 #### WAYFINDER
 Gioca il Wayfinder se vuoi cacciare la tua preda e colpire con forza letale.

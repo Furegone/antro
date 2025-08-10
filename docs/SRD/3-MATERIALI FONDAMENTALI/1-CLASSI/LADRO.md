@@ -73,7 +73,7 @@ Finezza
 ##### CARATTERISTICA DI MAESTRIA
 **Supportio Affidabile:** Puoi usare la tua funzione "Contatti Ovunque" tre volte per sessione. Le seguenti opzioni vengono aggiunte all'elenco dei benefici che puoi scegliere quando usi quella funzione:
 
-- Quando perdi 1 o più Punti Ferita, può precipitarsi a proteggerti, riducendo gli Punti Ferita subiti di 1.
+- Quando perdi 1 o più Punti Ferita, può precipitarsi a proteggerti, riducendo i Punti Ferita subiti di 1.
 
 - Quando effettui un Tiro Presenza in conversazione, ti supporta. Puoi tirare un d20 come tuo dado Speranza.
 

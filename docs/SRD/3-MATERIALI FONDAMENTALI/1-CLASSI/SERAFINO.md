@@ -47,8 +47,8 @@ Forza
 **Volto Etereo:** Il tuo aspetto soprannaturale incute timore e paura. Mentre voli, hai vantaggio sui Tiri Presenza. Quando hai successo con Speranza su un Tiro Presenza, puoi rimuovere una Paura dal poll di Paura del GM invece di guadagnare Speranza.
 
 ##### CARATTERISTICHE DI MAESTRIA
-**Ascendente:** Ottieni un bonus permanente di +4 alla tua soglia di danno Severe.
-**Potere degli Dei:** Mentre voli, infliggi un danno extra di 1d12 invece di 1d8 dalla tua funzione "Wings of Light".
+**Ascendente:** Ottieni un bonus permanente di +4 alla tua soglia di danno Grave.
+**Potere degli Dei:** Mentre voli, infliggi un danno extra di 1d12 invece di 1d8 con la tua caratteristica "Ali di Luce".
 
 > **DOMANDE DI BACKGROUND**
 > Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.

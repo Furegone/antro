@@ -37,7 +37,7 @@ Gioca lo Stalwart se vuoi subire colpi pesanti e continuare a combattere.
 
 ##### CARATTERISTICHE DI MAESTRIA
 **Impavido:** Ottieni un bonus permanente di +3 alle tue soglie di danno.
-**Protettore Leale:** Quando un alleato a distanza Vicina ha 2 o meno Punti Ferita e subirebbe danni, puoi **segnare uno Stress** per scattare al suo fianco e subire invece i danni.
+**Protettore Leale:** Quando un alleato a distanza Vicina ha 2 o meno Punti Ferita e subirebbe danni, puoi **segnare uno Stress** per scattare al suo fianco e subire i danni al suo posto.
 
 #### VENGEANCE
 Gioca il Vengeance se vuoi abbattere i nemici che feriscono te o i tuoi alleati.
@@ -50,7 +50,7 @@ Gioca il Vengeance se vuoi abbattere i nemici che feriscono te o i tuoi alleati.
 **Atto di Rappresaglia:** Quando un avversario danneggia un alleato a distanza Vicina, ottieni un bonus di +1 alla tua Competenza per il prossimo attacco riuscito che effettui contro quell'avversario.
 
 ##### CARATTERISTICA DI MAESTRIA
-**Nemesis: Spendi 2 Speranze** per Prioritizzare un avversario fino al tuo prossimo riposo. Quando effettui un attacco contro il tuo avversario Prioritizzato, puoi scambiare i risultati dei tuoi Dadi Speranza e Paura. Puoi Prioritizzare un solo avversario alla volta.
+**Nemesi: Spendi 2 Speranza** per Prioritizzare un avversario fino al tuo prossimo riposo. Quando effettui un attacco contro il tuo avversario Prioritizzato, puoi scambiare i risultati dei tuoi Dadi Speranza e Paura. Puoi Prioritizzare un solo avversario alla volta.
 
 > **DOMANDE DI BACKGROUND**
 > Rispondi a una qualsiasi delle seguenti domande di background. Puoi anche creare le tue domande.

@@ -33,7 +33,7 @@ Presenza
 **Maestro.** Le tue canzoni di raduno rafforzano il coraggio di coloro che ascoltano. Quando dai un Dado Radunare a un alleato, questi può ottenere una Speranza o cancellare uno Stress.
 
 ##### CARATTERISTICA DI MAESTRIA
-**Virtuoso.** Sei tra i più grandi del tuo mestiere e la tua abilità è illimitata. Puoi eseguire ciascuna delle canzoni della tua caratteristica "Esecutore Dotato" due volte per riposo lungo.
+**Virtuoso:** Sei tra i più grandi del tuo mestiere e la tua abilità è illimitata. Puoi eseguire ciascuna delle canzoni della tua caratteristica "Esecutore Dotato" due volte per riposo lungo.
 
 #### WORDSMITH
 Gioca il Wordsmith se vuoi usare giochi di parole intelligenti e affascinare le folle.

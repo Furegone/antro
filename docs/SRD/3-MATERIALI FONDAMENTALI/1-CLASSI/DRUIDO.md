@@ -49,7 +49,7 @@ Istinto
 
 **Fuoco:** Ottieni un bonus di +1 alla tua Competenza per attacchi e incantesimi che infliggono danni.
 
-**Terra:** Quando dovresti marcare Punti Ferita, tira un **d6** per ogni Punto Ferita marcato. Per ogni risultato di 6, riduci il numero di Punti Ferita che marchi di 1.
+**Terra:** Quando dovresti perdere Punti Ferita, tira un **d6** per ogni Punto Ferita perso. Per ogni risultato di 6, riduci il numero di Punti Ferita che perdi di 1.
 
 **Acqua:** Quando un attacco contro di te riesce, puoi **segnare uno Stress** per rendere l'attaccante temporaneamente Vulnerabile.
 
