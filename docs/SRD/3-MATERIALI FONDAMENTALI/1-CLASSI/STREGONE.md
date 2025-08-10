@@ -10,7 +10,7 @@ Non tutti gli utilizzatori di magia innata scelgono di affinare la loro arte, ma
 
 ##### CARATTERISTICHE DI CLASSE
 **Sensi Arcani:** Puoi percepire la presenza di persone e oggetti magici entro il raggio Vicino.
-**Illusione Minore:** Effettua un **Tiro Incantesimi (10)**. In caso di successo, crei una piccola illusione visiva non più grande di te stesso entro il raggio Vicino. Questa illusione è convincente per chiunque si trovi in un raggio Vicino o più lontano.
+**Illusione Minore:** Effettua un **Tiro Incantesimo (10)**. In caso di successo, crei una piccola illusione visiva non più grande di te stesso entro il raggio Vicino. Questa illusione è convincente per chiunque si trovi in un raggio Vicino o più lontano.
 **Incanalare il Potere Puro:** Una volta per riposo lungo, puoi mettere una carta di dominio dalla tua dotazione nella tua riserva e scegliere di:
 
 - Ottenere Speranza pari al livello della card.
@@ -37,7 +37,7 @@ Istinto
 
 - Bonus di +4 alla tua soglia Grave
 
-- Bonus di +1 a un Trattot a tua scelta
+- Bonus di +1 a un Tratto a tua scelta
 
 - Bonus di +1 alla tua Competenza
 

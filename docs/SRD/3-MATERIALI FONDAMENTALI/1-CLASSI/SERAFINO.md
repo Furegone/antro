@@ -6,7 +6,7 @@ I Serafini sono combattenti e guaritori divini intrisi di uno scopo sacro. Una v
 **OGGETTI DI CLASSE** - Un fascio di offerte o un sigillo del tuo dio
 
 ##### CARATTERISTICA SPERANZA SERAFINO
-**Supportio Vitale: Spendi 3 Speranza** per annullare un Hit Point su un alleato entro il raggio Vicino.
+**Supporto Vitale: Spendi 3 Speranza** per curare un Punto Ferita ad un alleato entro il raggio Vicino.
 
 ##### CARATTERISTICA DI CLASSE
 **Dado Preghiera:** All'inizio di ogni sessione, tira un numero di **d4** pari al Tratto Incantesimi della tua sottoclasse e posizionali sulla tua scheda del personaggio nello spazio fornito. Questi sono i tuoi Dadi Preghiera. Puoi spendere un qualsiasi numero di Dadi Preghiera per aiutare te stesso o un alleato entro il raggio Lontano. Puoi usare il valore di un dado speso per ridurre il danno in arrivo, aggiungere al risultato di un tiro dopo che il tiro è stato effettuato, o guadagnare Speranza pari al risultato. Alla fine di ogni sessione, annulla tutti i Dadi Preghiera non spesi.
@@ -21,8 +21,8 @@ Gioca il Divine Wielder se vuoi dominare il campo di battaglia con un'arma legge
 Forza
 
 ##### CARATTERISTICA BASE
-**Arma Spirituale:** Quando hai un'arma equipaggiata con un raggio Mischia o Molto Vicino, può volare dalla tua mano per attaccare un avversario entro il raggio Vicino e poi tornare da te. Puoi **segnare uno Stress** per colpire un avversario aggiuntivo entro il raggio con lo stesso tiro d'attacco.
-**Tocco Parsimonioso:** Una volta per riposo lungo, tocca una creatura e cura 2Punti Ferita o 2 Stress da essa.
+**Arma Spirituale:** Quando hai un'arma equipaggiata con un raggio di Mischia o Molto Vicino, può volare dalla tua mano per attaccare un avversario entro il raggio Vicino e poi tornare da te. Puoi **segnare uno Stress** per colpire un avversario aggiuntivo entro questo raggio con lo stesso tiro d'attacco.
+**Tocco Parsimonioso:** Una volta per riposo lungo, tocca una creatura e cura 2 Punti Ferita o 2 Stress ad essa.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
 **Devoto:** Quando tiri i tuoi Dadi Preghiera, puoi tirare un dado aggiuntivo e scartare il risultato più basso. Inoltre, puoi usare la tua funzione "Tocco Parsimonioso" due volte invece di una volta per riposo lungo.
@@ -41,7 +41,7 @@ Forza
 
 - **Segna uno Stress** per raccogliere e trasportare un'altra creatura consenziente di dimensioni approssimativamente simili o più piccola.
 
-- **Spendi una Speranza** per infliggere un danno extra di **1d8** su un attacco riuscito.
+- **Spendi una Speranza** per infliggere **1d8** danni aggiuntivi con un attacco riuscito.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
 **Volto Etereo:** Il tuo aspetto soprannaturale incute timore e paura. Mentre voli, hai vantaggio sui Tiri Presenza. Quando hai successo con Speranza su un Tiro Presenza, puoi rimuovere una Paura dal poll di Paura del GM invece di guadagnare Speranza.

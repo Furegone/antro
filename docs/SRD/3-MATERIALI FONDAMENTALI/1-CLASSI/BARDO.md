@@ -21,7 +21,7 @@ Gioca il Troubadour se vuoi suonare musica per sostenere i tuoi alleati.
 Presenza
 
 ##### CARATTERISTICA BASE
-**Esecutore Dotato:** Puoi suonare tre diversi tipi di canzoni, una volta ciascuno per riposo lungo; descrivi come ti esibisci per gli altri per ottenere il beneficio elencato:
+**Artista Dotato:** Puoi suonare tre diversi tipi di canzoni, una volta ciascuno per riposo lungo; descrivi come ti esibisci per gli altri per ottenere il beneficio elencato:
 
 - **Canzone Rilassante:** Tu e tutti gli alleati a distanza Vicina recuperate un Punto Ferita.
 
@@ -30,7 +30,7 @@ Presenza
 - **Canzone Straziante:** Tu e tutti gli alleati a distanza Vicina guadagnate una Speranza.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
-**Maestro.** Le tue canzoni di raduno rafforzano il coraggio di coloro che ascoltano. Quando dai un Dado Radunare a un alleato, questi può ottenere una Speranza o azzerare uno Stress.
+**Maestro.** Le tue canzoni di raduno rafforzano il coraggio di coloro che ascoltano. Quando dai un Dado Radunare a un alleato, questi può ottenere una Speranza o cancellare uno Stress.
 
 ##### CARATTERISTICA DI MAESTRIA
 **Virtuoso.** Sei tra i più grandi del tuo mestiere e la tua abilità è illimitata. Puoi eseguire ciascuna delle canzoni della tua caratteristica "Esecutore Dotato" due volte per riposo lungo.
@@ -42,11 +42,11 @@ Gioca il Wordsmith se vuoi usare giochi di parole intelligenti e affascinare le 
 Presenza
 
 ##### CARATTERISTICHE BASE
-**Discorso Emozionante:** Una volta per riposo lungo, puoi tenere un discorso sentito e ispiratore. Tutti gli alleati a distanza Lontana azzerano 2 Stress.
-**Cuore di Poeta:** Dopo aver effettuato un tiro azione per impressionare, persuadere o offendere qualcuno, puoi spendere una Speranza per aggiungere un d4 al tiro.
+**Discorso Emozionante:** Una volta per riposo lungo, puoi tenere un discorso sentito e ispiratore. Tutti gli alleati fino a distanza Lontana cancellano 2 Stress.
+**Cuore di Poeta:** Dopo aver effettuato un tiro azione per impressionare, persuadere o offendere qualcuno, puoi **spendere una Speranza** per aggiungere un d4 al tiro.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
-**Eloquente.** Le tue parole commoventi aumentano il morale. Una volta per sessione, quando incoraggi un alleato, puoi fare una delle seguenti cose:
+**Eloquente:** Le tue parole commoventi aumentano il morale. Una volta per sessione, quando incoraggi un alleato, puoi fare una delle seguenti cose:
 
 - Permettergli di trovare un oggetto o strumento comune di cui ha bisogno.
 

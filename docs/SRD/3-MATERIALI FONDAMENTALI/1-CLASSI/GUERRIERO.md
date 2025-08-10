@@ -3,7 +3,7 @@ Diventare un guerriero richiede anni, spesso una vita intera, di addestramento e
 **DOMINI** - Lama & Ossa
 **EVASIONE INIZIALE** - 11
 **PUNTI FERITA INIZIALI** - 6
-**OGGETTI DI CLASSE** - Il disegno di un amante o una cote
+**OGGETTI DI CLASSE** - Il ritratto di un amante o una cote
 
 ##### CARATTERISTICA SPERANZA DEL GUERRIERO
 **Nessuna Pietà:** **Spendi 3 Speranza** per ottenere un bonus di +1 ai tuoi tiri attacco fino al tuo prossimo riposo.
@@ -27,7 +27,7 @@ Gioca la Call of the Brave se vuoi usare la forza dei tuoi nemici per alimentare
 
 ##### CARATTERISTICHE BASE
 **Coraggio:** Quando fallisci un tiro con Paura, guadagni una Speranza.
-**Rituale di Battaglia:** Una volta per riposo lungo, prima di tentare qualcosa di incredibilmente pericoloso o affrontare un nemico che ti sovrasta chiaramente, descrivi quale rituale esegui o quali preparativi fai. Quando lo fai, annulla 2 Stress e guadagni 2 Speranza.
+**Rituale di Battaglia:** Una volta per riposo lungo, prima di tentare qualcosa di incredibilmente pericoloso o affrontare un nemico che ti sovrasta chiaramente, descrivi quale rituale esegui o quali preparativi fai. Quando lo fai, cancella 2 Stress e guadagni 2 Speranza.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
 **Accetta la Sfida:** Sei vigile di fronte al crescente pericolo. Mentre hai 2 o meno Punti Ferita rimanenti, puoi tirare un d20 come tuo Dado Speranza.

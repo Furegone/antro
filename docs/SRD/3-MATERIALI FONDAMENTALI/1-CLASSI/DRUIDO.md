@@ -6,10 +6,10 @@ Diventare un druido è più di un'occupazione; è una vocazione per coloro che d
 **OGGETTI DI CLASSE** - Un piccolo sacchetto di rocce e ossa o un ciondolo strano trovato nella terra
 
 ##### CARATTERISTICA SPERANZA DEL DRUIDO
-**Evoluzione:** Spendi 3 Speranza per trasformarti in una Forma Bestiale senza segnare uno Stress. Quando lo fai, scegli un tratto da aumentare di +1 finché non esci da quella Forma Bestiale.
+**Evoluzione:** **Spendi 3 Speranza** per trasformarti in una Forma Bestiale senza segnare uno Stress. Quando lo fai, scegli un tratto da aumentare di +1 finché non esci da quella Forma Bestiale.
 
 ##### CARATTERISTICHE DI CLASSE
-**Forma Bestiale:** Segna uno Stress per trasformarti magicamente in una creatura del tuo livello o inferiore dalla lista della Forma Bestiale. Puoi uscire da questa forma in qualsiasi momento. Mentre trasformato, non puoi usare armi o lanciare incantesimi da carte Dominio, ma puoi comunque usare altre caratteristiche o abilità a cui hai accesso. Gli incantesimi che hai lanciato prima di trasformarti rimangono attivi e durano per la loro normale durata, e puoi parlare e comunicare normalmente. Inoltre, guadagni le caratteristiche della Forma Bestiale, aggiungi il loro bonus di Evasione alla tua Evasione e usi il tratto specificato nelle loro statistiche per il tuo attacco. Mentre sei in una Forma Bestiale, la tua armatura diventa parte del tuo corpo e marchi gli Slot Armatura come al solito; quando esci da una Forma Bestiale, quegli Slot Armatura marcati rimangono marcati. Se marchi il tuo ultimo Punto Ferita, esci automaticamente da questa forma.
+**Forma Bestiale:** **Segna uno Stress** per trasformarti magicamente in una creatura del tuo livello o inferiore dalla lista della Forma Bestiale. Puoi uscire da questa forma in qualsiasi momento. Mentre trasformato, non puoi usare armi o lanciare incantesimi da carte Dominio, ma puoi comunque usare altre caratteristiche o abilità a cui hai accesso. Gli incantesimi che hai lanciato prima di trasformarti rimangono attivi e durano per la loro normale durata, e puoi parlare e comunicare normalmente. Inoltre, guadagni le caratteristiche della Forma Bestiale, aggiungi il loro bonus di Evasione alla tua Evasione e usi il tratto specificato nelle loro statistiche per il tuo attacco. Mentre sei in una Forma Bestiale, la tua armatura diventa parte del tuo corpo e marchi gli Slot Armatura come al solito; quando esci da una Forma Bestiale, quegli Slot Armatura marcati rimangono marcati. Se perdi il tuo ultimo Punto Ferita, esci automaticamente da questa forma.
 
 **Tocco Selvaggio:** Puoi eseguire effetti innocui e sottili che coinvolgono la natura — come far crescere rapidamente un fiore, evocare una leggera raffica di vento o accendere un falò — a volontà.
 
@@ -23,7 +23,7 @@ Gioca il Warden of the Elements se vuoi incarnare gli elementi naturali della na
 Istinto
 
 ##### CARATTERISTICA BASE
-**Incarnazione Elementale**: Segna uno Stress per Incanalare uno dei seguenti elementi finché non subisci danni Gravi o fino al tuo prossimo riposo:
+**Incarnazione Elementale**: **Segna uno Stress** per Incanalare uno dei seguenti elementi finché non subisci danni Gravi o fino al tuo prossimo riposo:
 
 **Fuoco:** Quando un avversario a distanza Vicina ti infligge danni, subisce **1d10** danni magici.
 
@@ -31,7 +31,7 @@ Istinto
 
 **Acqua:** Quando infliggi danni a un avversario a distanza Vicina, tutti gli altri avversari a distanza Molto Vicina devono segnare uno Stress.
 
-**Aria:** Puoi fluttuare, ottenendo vantaggio sui tiri di Agilità.
+**Aria:** Puoi fluttuare, ottenendo vantaggio ai tiri di Agilità.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE
 **Aura Elementale:** Una volta per riposo mentre Incanali, puoi assumere un'aura corrispondente al tuo elemento. L'aura colpisce i bersagli a distanza Vicina finché il tuo Incanalare non termina.
@@ -56,7 +56,7 @@ Istinto
 **Aria:** Ottieni un bonus di +1 alla tua Evasione e puoi volare.
 
 #### WARDEN OF RENEWAL
-Gioca il Warden of Renewal se vuoi usare la magia potente per curare il tuo gruppo.
+Gioca il Warden of Renewal se vuoi usare potenti magie per curare il tuo gruppo.
 
 ##### TRATTO INCANTESIMI
 Istinto

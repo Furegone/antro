@@ -1,4 +1,4 @@
-Sia attraverso un'istituzione che uno studio individuale, coloro conosciuti come maghi acquisiscono e affinano un immenso potere magico nel corso di anni di apprendimento utilizzando una varietà di strumenti, inclusi libri, pietre, pozioni ed erbe. Alcuni maghi dedicano la loro vita a padroneggiare una particolare scuola di magia, mentre altri imparano da una vasta gamma di discipline. Molti maghi diventano figure sagge e potenti nelle loro Comunità, consigliando i governanti, fornendo medicine e guarigioni, e persino guidando consigli di guerra. Mentre questi maghi lavorano tutti verso l'obiettivo comune di raccogliere conoscenza magica, i maghi spesso hanno il maggior conflitto tra le loro stesse fila, poiché l'acquisizione, la conservazione e la condivisione di potenti segreti è un argomento di intenso dibattito che ha portato a innumerevoli morti.
+PSia attraverso un'istituzione che uno studio individuale, coloro conosciuti come maghi acquisiscono e affinano un immenso potere magico nel corso di anni di apprendimento utilizzando una varietà di strumenti, inclusi libri, pietre, pozioni ed erbe. Alcuni maghi dedicano la loro vita a padroneggiare una particolare scuola di magia, mentre altri imparano da una vasta gamma di discipline. Molti maghi diventano figure sagge e potenti nelle loro Comunità, consigliando i governanti, fornendo medicine e guarigioni, e persino guidando consigli di guerra. Mentre questi maghi lavorano tutti verso l'obiettivo comune di raccogliere conoscenza magica, i maghi spesso hanno il maggior conflitto tra le loro stesse fila, poiché l'acquisizione, la conservazione e la condivisione di potenti segreti è un argomento di intenso dibattito che ha portato a innumerevoli morti.
 
 **DOMINI** - Codice & Splendore
 **EVASIONE INIZIALE** - 11
@@ -16,7 +16,7 @@ Sia attraverso un'istituzione che uno studio individuale, coloro conosciuti come
 Scegli la sottoclasse **School of Knowledge** o la **School of War** .
 
 #### SCHOOL OF KNOWLEDGE
-Gioca la School of Knowledge se vuoi una profonda comprensione del mondo che ti circonda.
+Gioca la School of Knowledge se vuoi avere una profonda comprensione del mondo che ti circonda.
 
 ##### TRATTO INCANTESIMI
 Conoscenza
@@ -34,7 +34,7 @@ Conoscenza
 **Competenza Affinata:** Quando usi un'Esperienza, tira un **d6**. Con un risultato di 5 o superiore, puoi usarlo senza spendere Speranza.
 
 #### SCHOOL OF WAR
-Gioca la School of War se vuoi utilizzare la magia addestrata per la violenza.
+Gioca la School of War se vuoi utilizzare la magia specializzata per il combattimento.
 
 ##### TRATTO INCANTESIMI
 Conoscenza

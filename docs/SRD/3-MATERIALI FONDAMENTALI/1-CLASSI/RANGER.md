@@ -6,7 +6,7 @@ I rangers sono cacciatori altamente qualificati che, nonostante le loro abilità
 **OGGETTI DI CLASSE** - Un trofeo della tua prima uccisione o una bussola apparentemente rotta
 
 ##### CARATTERISTICA SPERANZA DEL RANGER
-**Tienili Lontano:** **Spendi 3 Speranza** quando riesci in un attacco con un'arma per usare lo stesso tiro contro due avversari aggiuntivi a portata dell'attacco.
+**Tienili Lontani:** **Spendi 3 Speranza** quando riesci in un attacco con un'arma per usare lo stesso tiro contro due avversari aggiuntivi a portata dell'attacco.
 
 ##### CARATTERISTICA DI CLASSE
 **Focus del Ranger:** **Spendi una Speranza** ed effettua un attacco contro un bersaglio. In caso di successo, infliggi il danno normale del tuo attacco e rendi temporaneamente il bersaglio dell'attacco il tuo Focus. Finché questa caratteristica non termina o non rendi una creatura diversa il tuo Focus, ottieni i seguenti benefici contro il tuo Focus:
@@ -45,7 +45,7 @@ Gioca il Wayfinder se vuoi cacciare la tua preda e colpire con forza letale.
 Agilità
 
 ##### CARATTERISTICHE BASE
-**Predatore Spietato:** Quando effettui un tiro danno, puoi segnare uno Stress per ottenere un bonus di +1 alla tua Competenza. Inoltre, quando infliggi danni Gravi a un avversario, deve segnare uno Stress.
+**Predatore Spietato:** Quando effettui un tiro danno, puoi **segnare uno Stress** per ottenere un bonus di +1 alla tua Competenza. Inoltre, quando infliggi danni Gravi a un avversario, deve segnare uno Stress.
 **Sentiero Rivelato:** Quando ti stai recando in un luogo che hai già visitato o porti un oggetto che è già stato in quel luogo, puoi identificare il percorso più breve e diretto verso la tua destinazione.
 
 ##### CARATTERISTICA DI SPECIALIZZAZIONE

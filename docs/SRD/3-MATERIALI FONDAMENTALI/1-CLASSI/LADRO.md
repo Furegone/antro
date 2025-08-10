@@ -32,7 +32,7 @@ Gioca il Nightwalker se vuoi manipolare le ombre per muoverti nell'ambiente.
 Finezza
 
 ##### CARATTERISTICA BASE
-Passa Ombra: Puoi muoverti da ombra a ombra. Quando ti muovi in un'area di oscurità o un'ombra proiettata da un'altra creatura o oggetto, puoi **segnare uno Stress** per scomparire da dove ti trovi e riapparire all'interno di un'altra ombra entro il raggio Lontano. Quando riappari, sei Occultato.
+**Passa Ombra**: Puoi muoverti da ombra a ombra. Quando ti muovi in un'area di oscurità o un'ombra proiettata da un'altra creatura o oggetto, puoi **segnare uno Stress** per scomparire da dove ti trovi e riapparire all'interno di un'altra ombra entro il raggio Lontano. Quando riappari, sei Occultato.
 
 ##### CARATTERISTICHE DI SPECIALIZZAZIONE
 **Nube Oscura**: Effettua un **Tiro Incantesimi (15)**. In caso di successo, crea una nuvola oscura temporanea che copre qualsiasi area entro il raggio Vicino. Chiunque si trovi in questa nuvola non può vedere al di fuori di essa, e chiunque si trovi al di fuori di essa non può vedere all'interno. Sei considerato Occultato da qualsiasi avversario per il quale la nuvola blocca la linea di vista.
