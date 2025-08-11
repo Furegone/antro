@@ -8,7 +8,7 @@ Possiedi un monile profondamente personale che può essere infuso di magia prote
 ##### UNLEASH CHAOS
 *Arcano Incantesimo  Livello 1*
 **Costo di Richiamo:** 1
-All'inizio della sessione, posiziona un numero di segnalini pari alla tua caratteristica Incantesimi su questa carta. Effettua un **Tiro Incantesimo** contro un bersaglio entro gittata Lontano e spendi un numero qualsiasi di segnalini per incanalare l'energia grezza da te stesso e scatenarla contro di lui. In caso di successo, tira un numero di **d10** pari ai segnalini spesi e infliggi altrettanti danni magici al bersaglio. **Segna uno Stress** per ricaricare questa carta con segnalini (fino al tuo valore della caratteristica Incantesimi). Alla fine di ogni sessione, rimuovi tutti i segnalini non spesi.
+All'inizio della sessione, posiziona un numero di segnalini pari alla tua caratteristica Incantesimi su questa carta. Effettua un **Tiro Incantesimo** contro un bersaglio entro gittata Lontano e spendi un numero qualsiasi di segnalini per incanalare l'energia grezza da te stesso e scatenarla contro di lui. In caso di successo, tira un numero di **d10** pari ai segnalini spesi e infliggi altrettanti danni magici al bersaglio. **Segna uno Stress** per ricaricare questa carta con segnalini (fino al tuo valore del Tratto Incantesimi). Alla fine di ogni sessione, rimuovi tutti i segnalini non spesi.
 
 ##### WALL WALK
 *Arcano Incantesimo  Livello 1*
@@ -43,7 +43,7 @@ Effettua un **Tiro Incantesimo (12)**. Se il tiro ha successo, **spendi una Sper
 ##### PRESERVATION BLAST
 *Arcano Incantesimo Livello 4*
 **Costo di Richiamo:** 2
-Effettua un **Tiro Incantesimo** contro tutti i bersagli entro il raggio di Mischia. I bersagli colpiti con successo sono costretti a tornare a distanza Lontana e subiscono **d8+3** danni magici usando il tuo tratto di Lancio di Incantesimi.
+Effettua un **Tiro Incantesimo** contro tutti i bersagli entro il raggio di Mischia. I bersagli colpiti con successo sono costretti a tornare a distanza Lontana e subiscono **d8+3** danni magici usando il tuo tratto Incantesimi.
 
 ##### CHAIN LIGHTNING
 *Arcano Incantesimo Livello 5*
@@ -100,7 +100,7 @@ Una volta per riposo, effettua un **Tiro Incantesimo (15)**. In caso di successo
 ##### ADJUST REALITY
 *Arcano Incantesimo Livello 10*
 **Costo di Richiamo:** 1
-Dopo che tu o un alleato consenziente avete effettuato un tiro, potete **spendere 5 punti Speranza** per cambiare il risultato numerico di quel tiro in un risultato a vostra scelta. Il risultato deve essere plausibile entro i limiti del dado.
+Dopo che tu o un alleato consenziente avete effettuato un tiro, puoi **spendere 5 punti Speranza** per cambiare il risultato numerico di quel tiro in un risultato a vostra scelta. Il risultato deve essere plausibile entro i limiti del dado.
 
 ##### FALLING SKY
 *Arcano Incantesimo Livello 10*
@@ -112,7 +112,7 @@ Effettua un Tiro Incantesimo contro tutti gli avversari entro gittata Lontana. *
 ##### GET BACK UP
 *Lama Abilità Livello 1*
 **Costo di Richiamo:** 1
-Quando subisci danni Gravi, puoi **segna uno Stress** per ridurre la gravità di una soglia.
+Quando subisci danni Gravi, puoi **segnare uno Stress** per ridurre la gravità di una soglia.
 
 ##### NOT GOOD ENOUGH
 *Lama Abilità Livello 1*
@@ -159,7 +159,7 @@ Mentre indossi un'armatura, ottieni un bonus di +2 alle tue soglie di danno.
 **Costo di Richiamo:** 1
 Quando ottieni un successo critico in un attacco, puoi **spendere fino a 3 punti Speranza** e scegliere una delle seguenti opzioni per ogni punto Speranza speso: 
 - Recuperi un Punto Ferita. 
-- Recuperi uno Slot Armatura. 
+- Ripari uno Slot Armatura. 
 - Il bersaglio perde un Punto Ferita aggiuntivo.
 Non puoi scegliere la stessa opzione più di una volta.
 
@@ -265,7 +265,7 @@ Quando contrassegni uno slot armatura per ridurre i danni in arrivo, puoi **segn
 ##### TACTICIAN
 *Ossa Abilità Livello 3*
 **Costo di Richiamo:** 1
-Quando Aiuti un Alleato, l’alleato può spendere una Speranza per aggiungere una delle tue Esperienze al suo tiro, insieme al tuo dado vantaggio. Quando effettui un Tiro Tag Team, puoi tirare un **d20** come Dado Speranza.
+Quando Aiuti un Alleato, l’alleato può spendere una Speranza per aggiungere una delle tue Esperienze al suo tiro, insieme al tuo dado vantaggio. Quando effettui un Tiro Azione di Squadra, puoi tirare un **d20** come Dado Speranza.
 
 ##### BOOST
 *Ossa Abilità Livello 4*
@@ -745,7 +745,7 @@ Effettua un **Tiro Incantesimo** contro un bersaglio entro gittata Lontana. In c
 ##### CONJURE SWARM
 *Saggio Incantesimo Livello 2*
 **Costo di Richiamo:** 1
-**Coleotteri Corazzati di Tekaira:** **Segna uno Stress** per evocare dei coleotteri corazzati che ti circondano. Quando subisci danni, riduci la gravità di una soglia. Puoi **spendere una Speranza** per mantenere gli scarafaggi evocati dopo aver subito danni. 
+**Coleotteri Corazzati di Tekaira:** **Segna uno Stress** per evocare dei coleotteri corazzati che ti circondano. Quando subisci danni, riduci la gravità di una soglia. Puoi **spendere una Speranza** per mantenere i coleotteri evocati dopo aver subito danni. 
 **Lucciole di Fuoco:** Effettua un **Tiro Incantesimo** contro tutti gli avversari entro un raggio Vicino. **Spendi una Speranza** per infliggere **2d8+3** danni magici ai bersagli contro cui hai avuto successo.
 
 ##### NATURAL FAMILIAR

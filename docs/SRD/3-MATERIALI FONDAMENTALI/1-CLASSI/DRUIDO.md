@@ -127,7 +127,7 @@ Mischia Istinto d6 Fisico
 (Cervo, Gazzella, Capra, ecc.)
 Agilità +1 | Evasione +3
 Mischia Agilità d6 Fisico
-**Ottieni vantaggio in:** saltare, intrufolarsi, sprint
+**Ottieni vantaggio in:** saltare, intrufolarsi, scattare
 **Preda Elusiva:** Quando un tiro attacco contro di te avrebbe successo, puoi **segnare uno Stress** e tirare un **d4**. Aggiungi il risultato alla tua Evasione contro questo attacco.
 **Fragile:** Quando subisci danni Maggiori o superiori, esci dalla Forma Bestiale.
 
@@ -135,15 +135,15 @@ Mischia Agilità d6 Fisico
 (Coyote, Iena, Lupo, ecc.)
 Forza +2 | Evasione +1
 Mischia Forza d8+2 Fisico
-**Ottieni vantaggio in:** attaccare, sprint, tracciare
+**Ottieni vantaggio in:** attaccare, scattare, tracciare
 **Colpo Zoppicante:** Quando riesci in un attacco contro un bersaglio a distanza Vicina, puoi **segnare uno Stress** per rendere il bersaglio temporaneamente Vulnerabile.
-**Caccia di Branco:** Quando riesci in un attacco contro lo stesso bersaglio di un alleato che agisce immediatamente prima di te, aggiungi un **d8** al tuo tiro danno.
+**Caccia in Branco:** Quando riesci in un attacco contro lo stesso bersaglio di un alleato che agisce immediatamente prima di te, aggiungi un **d8** al tuo tiro danno.
 
 ##### AQUATIC SCOUT
 (Anguilla, Pesce, Polpo, ecc.)
 Agilità +1 | Evasione +2
 Mischia Agilità d4 Fisico
-**Ottieni vantaggio in:** navigare, intrufolarsi, nuotare
+**Ottieni vantaggio in:** attraversare, intrufolarsi, nuotare
 **Acquatico:** Puoi respirare e muoverti naturalmente sott'acqua.
 **Fragile:** Quando subisci danni Maggiori o superiori, esci dalla Forma Bestiale.
 
@@ -153,7 +153,7 @@ Finezza +1 | Evasione +2
 Mischia Finezza d6+1 Fisico
 **Ottieni vantaggio in**: attaccare, arrampicarsi, intrufolarsi
 **Morso Velenoso:** Quando riesci in un attacco contro un bersaglio a distanza Vicina, il bersaglio diventa temporaneamente Avvelenato. Una creatura Avvelenata subisce **1d10** danni fisici diretti ogni volta che agisce.
-**Tessitore di Ragnatele:** Puoi creare un materiale di ragnatela resistente utile sia per l'avventura che per la battaglia. La ragnatela è abbastanza resistente da sostenere una creatura. Puoi temporaneamente Imprigionare un bersaglio a distanza Vicina riuscendo in un Tiro Finezza contro di esso.
+**Tessitore di Ragnatele:** Puoi creare una ragnatela resistente utile sia per l'avventura che per la battaglia. La ragnatela è abbastanza resistente da sostenere una creatura. Puoi temporaneamente Imprigionare un bersaglio a distanza Vicina riuscendo in un Tiro Finezza contro di esso.
 
 #### TIER 2
 ##### ARMORED SENTRY
@@ -168,7 +168,7 @@ Mischia Forza d8+2 Fisico
 (Orso, Toro, Alce, ecc.)
 Forza +1 | Evasione +3
 Mischia Forza d10+4 Fisico
-**Ottieni vantaggio in**: navigare, proteggere, spaventare
+**Ottieni vantaggio in**: attraversare, proteggere, spaventare
 **Furia:** Quando tiri un 1 su un dado danno, puoi tirare un **d10** e aggiungere il risultato al tiro danno. Inoltre, prima di effettuare un tiro attacco, puoi **segnare uno Stress** per ottenere un bonus di +1 alla tua Competenza per quell'attacco.
 **Pelle Spessa:** Ottieni un bonus di +2 alle tue soglie di danno.
 
@@ -176,17 +176,17 @@ Mischia Forza d10+4 Fisico
 (Cammello, Cavallo, Zebra, ecc.)
 Agilità +1 | Evasione +2
 Mischia Agilità d8+1 Fisico
-**Ottieni vantaggio in:** saltare, navigare, sprint
-**Portatore:** Puoi trasportare fino a due alleati volenti con te quando ti muovi.
-**Calpestare:** Segna uno Stress per muoverti fino a distanza Vicina in linea retta e fare un attacco contro tutti i bersagli a distanza Vicina dalla linea. I bersagli contro cui riesci subiscono **d8+1** danni fisici usando la tua Competenza e sono temporaneamente Vulnerabili.
+**Ottieni vantaggio in:** saltare, attraversare, scattare
+**Portatore:** Puoi trasportare con te fino a due alleati consenzienti quando ti muovi.
+**Calpestare:** **Segna uno Stress** per muoverti fino a distanza Vicina in linea retta e fare un attacco contro tutti i bersagli a distanza Vicina dalla linea. I bersagli contro cui riesci subiscono **d8+1** danni fisici usando la tua Competenza e sono temporaneamente Vulnerabili.
 
 ##### STRIKING SERPENT
 (Cobra, Serpente a sonagli, Vipera, ecc.)
 Finezza +1 | Evasione +2
 Molto Vicino Finezza d8+4 Fisico
-**Ottieni vantaggio in:** arrampicarsi, ingannare, sprint
+**Ottieni vantaggio in:** arrampicarsi, ingannare, scattare
 **Colpo Velenoso:** Effettua un attacco contro un numero qualsiasi di bersagli a distanza Molto Vicina. In caso di successo, un bersaglio è temporaneamente Avvelenato. Una creatura Avvelenata subisce 1d10 danni fisici diretti ogni volta che agisce.
-**Soffio d'Avvertimento:** Marca uno Stress per costringere un numero qualsiasi di bersagli a distanza Vicina a muoversi indietro a distanza Molto Vicina.
+**Sibilo d'Avvertimento:** **Segna** **uno Stress** per costringere un numero qualsiasi di bersagli a distanza di Mischia a muoversi indietro a distanza Molto Vicina.
 
 ##### POUNCING PREDATOR
 (Ghepardo, Leone, Pantera, ecc.)
@@ -209,9 +209,9 @@ Mischia Finezza d4+2 Fisico
 (Lupo Atroce, Velociraptor, Tigre dai Denti a Sciabola, ecc.)
 Forza +2 | Evasione +2
 Mischia Forza d12+8 Fisico
-**Ottieni vantaggio in:** attaccare, intrufolarsi, sprint
-**Portatore:** Puoi trasportare fino a due alleati volenti con te quando ti muovi.
-**Artiglio Velenoso:** Quando riesci in un attacco contro un bersaglio, puoi **spendere una Speranza** per renderlo temporaneamente Vulnerabile e ottenere un bonus di +1 alla tua Competenza per questo attacco.
+**Ottieni vantaggio in:** attaccare, intrufolarsi, scattare
+**Portatore:** Puoi trasportare con te fino a due alleati consenzienti quando ti muovi.
+**Percossa Feroce:** Quando riesci in un attacco contro un bersaglio, puoi **spendere una Speranza** per renderlo temporaneamente Vulnerabile e ottenere un bonus di +1 alla tua Competenza per questo attacco.
 
 ##### MIGHTY LIZARD  
 (Alligatore, Coccodrillo, Mostro di Gila, ecc.)
@@ -219,7 +219,7 @@ Istinto +2 | Evasione +1
 Mischia Istinto d10+7 Fisico
 **Ottieni vantaggio in:** attaccare, intrufolarsi, tracciare
 **Difesa Fisica:** Ottieni un bonus di +3 alle tue soglie di danno.
-**Morso a Scatto:** Quando riesci in un attacco contro un bersaglio a distanza Vicina, puoi **spendere una Speranza** per stringere l'avversario tra le tue fauci, rendendolo temporaneamente Imprigionato e Vulnerabile.
+**Morso a Scatto:** Quando riesci in un attacco contro un bersaglio a distanza Vicina, puoi **spendere una Speranza** per stringere l’avversario tra le tue fauci, rendendolo temporaneamente Trattenuto e Vulnerabile.
 
 ##### GREAT WINGED BEAST
 (Aquila Gigante, Falcone, ecc.)
@@ -227,7 +227,7 @@ Finezza +2 | Evasione +3
 Mischia Finezza d8+6 Fisico
 **Ottieni vantaggio in:** ingannare, distrarre, localizzare
 **Vista aerea:** Puoi volare a volontà. Una volta per riposo mentre sei in volo, puoi fare una domanda al GM sulla scena sotto di te senza dover tirare. La prima volta che un personaggio effettua un tiro per agire su questa informazione, ottiene vantaggio sul tiro.
-**Portatore:** Puoi trasportare fino a due alleati volenti con te quando ti muovi.
+**Portatore:** Puoi trasportare con te fino a due alleati consenzienti quando ti muovi.
 
 ##### AQUATIC PREDATOR
 (Delfino, Orca, Squalo, ecc.)
@@ -258,8 +258,8 @@ Mischia Forza d10+8 Fisico
 (Elefante, Mammut, Rinoceronte, ecc.)
 Forza +3 | Evasione +1
 Mischia Forza d12+12 Fisico
-**Ottieni vantaggio in:** localizzare, proteggere, spaventare, sprint
-**Portatore:** Puoi trasportare fino a quattro alleati volenti con te quando ti muovi.
+**Ottieni vantaggio in:** localizzare, proteggere, spaventare, scattare
+**Portatore:** Puoi trasportare con te fino a quattro alleati consenzienti quando ti muovi.
 **Demolire: Spendi una Speranza** per muoverti fino a distanza Lontana in linea retta e fare un attacco contro tutti i bersagli a distanza Vicina dalla linea. I bersagli contro cui riesci subiscono **d8+10** danni fisici usando la tua Competenza e sono temporaneamente Vulnerabili.
 **Impavido:** Ottieni un bonus di +2 a tutte le tue soglie di danno.
 
@@ -275,8 +275,8 @@ Mischia Forza d12+10 Fisico
 (Drago, Pterodattilo, Roc, Wyvern, ecc.)
 Finezza +3 | Evasione +4
 Mischia Finezza d10+11 Fisico
-**Ottieni vantaggio in:** attaccare, ingannare, localizzare, navigare
-**Portatore:** Puoi trasportare fino a tre alleati volenti con te quando ti muovi.
+**Ottieni vantaggio in:** attaccare, ingannare, localizzare, attraversare
+**Portatore:** Puoi trasportare con te fino a tre alleati consenzienti quando ti muovi.
 **Predatore Mortale**: Puoi volare a volontà e muoverti fino a distanza Lontana come parte della tua azione. Quando ti muovi in linea retta a distanza Vicina da un bersaglio da almeno distanza Vicina e fai un attacco contro quel bersaglio nella stessa azione, puoi ritirare tutti i dadi danno che hanno ottenuto un risultato inferiore alla tua Competenza.
 
 ##### EPIC AQUATIC BEAST
@@ -284,7 +284,7 @@ Mischia Finezza d10+11 Fisico
 Agilità +3 | Evasione +3
 Mischia Agilità d10+10 Fisico
 **Ottieni vantaggio in:** localizzare, proteggere, spaventare, tracciare
-**Maestro degli Oceani:** Puoi respirare e muoverti naturalmente sott'acqua. Quando riesci in un attacco contro un bersaglio a distanza Vicina, puoi temporaneamente Imprigionarlo.
+**Maestro degli Oceani:** Puoi respirare e muoverti naturalmente sott'acqua. Quando riesci in un attacco contro un bersaglio a distanza Vicina, puoi temporaneamente Trattenerlo.
 **Inarrestabile:** Quando dovresti marcare uno Slot Armatura, tira un **d6**. Con un risultato di 5 o superiore, riduci la gravità di una soglia senza marcare uno Slot Armatura.
 
 ##### MYTHIC BEAST
