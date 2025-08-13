@@ -36,18 +36,18 @@ Sebbene robuste, queste sedie a rotelle hanno telai leggeri che consentono alla 
 **Modelli con Telaio Pesante**
 Queste sedie a rotelle hanno telai ingombranti e più pesanti, consentendo alla sedia di aggiungere il suo peso agli attacchi del tuo personaggio. Le rende anche un bersaglio più grande.
 
-| Nome                                           | Livello | Tratto | Gittata | Danno         | Ingombro   | Caratteristica           |
-| ---------------------------------------------- | ------- | ------ | ------- | ------------- | ---------- | ------------------------ |
-| Sedia a Rotelle con Telaio Pesante             | 1       | Forza  | Mischia | d12+3 fisico  | A due mani | Pesante: -1 all'Evasione |
-| Sedia a Rotelle con Telaio Pesante Migliorata  | 2       | Forza  | Mischia | d12+6 fisico  | A due mani | Pesante: -1 all'Evasione |
-| Sedia a Rotelle con Telaio Pesante Avanzata    | 3       | Forza  | Mischia | d12+9 fisico  | A due mani | Pesante: -1 all'Evasione |
-| Sedia a Rotelle con Telaio Pesante Leggendaria | 4       | Forza  | Mischia | d12+12 fisico | A due mani | Pesante: -1 all'Evasione |
+| Nome                                           | Livello | Tratto | Gittata | Danno         | Ingombro   | Caratteristica               |
+| ---------------------------------------------- | ------- | ------ | ------- | ------------- | ---------- | ---------------------------- |
+| Sedia a Rotelle con Telaio Pesante             | 1       | Forza  | Mischia | d12+3 fisico  | A due mani | **Pesante:** -1 all'Evasione |
+| Sedia a Rotelle con Telaio Pesante Migliorata  | 2       | Forza  | Mischia | d12+6 fisico  | A due mani | **Pesante:** -1 all'Evasione |
+| Sedia a Rotelle con Telaio Pesante Avanzata    | 3       | Forza  | Mischia | d12+9 fisico  | A due mani | **Pesante:** -1 all'Evasione |
+| Sedia a Rotelle con Telaio Pesante Leggendaria | 4       | Forza  | Mischia | d12+12 fisico | A due mani | **Pesante:** -1 all'Evasione |
 **Modelli con Telaio Arcano**
 Queste sedie a rotelle hanno telai sintonizzati con il tuo personaggio e la sua magia, consentendogli di canalizzare i loro incantesimi attraverso la sedia. A differenza di altre armi magiche primarie, il modello con telaio arcano non specifica un tratto da usare quando si effettua un attacco con essa. Invece, si usa il tratto Incantesimi indicato dalla tua sottoclasse.
 
-| Nome                                            | Livello | Tratto    | Gittata | Danno       | Ingombro   | Caratteristica                     |
-| ----------------------------------------------- | ------- | --------- | ------- | ----------- | ---------- | ---------------------------------- |
-| Sedia a Rotelle con Telaio Arcanico             | 1       | Incantesimi | Lontano | d6 magico   | A una mano | Affidabile: +1 ai tiri per colpire |
-| Sedia a Rotelle con Telaio Arcanico Migliorata  | 2       | Incantesimi | Lontano | d6+3 magico | A una mano | Affidabile: +1 ai tiri per colpire |
-| Sedia a Rotelle con Telaio Arcanico Avanzata    | 3       | Incantesimi | Lontano | d6+6 magico | A una mano | Affidabile: +1 ai tiri per colpire |
-| Sedia a Rotelle con Telaio Arcanico Leggendaria | 4       | Incantesimi | Lontano | d6+9 magico | A una mano | Affidabile: +1 ai tiri per colpire |
+| Nome                                          | Livello | Tratto      | Gittata | Danno       | Ingombro   | Caratteristica                         |
+| --------------------------------------------- | ------- | ----------- | ------- | ----------- | ---------- | -------------------------------------- |
+| Sedia a Rotelle con Telaio Arcano             | 1       | Incantesimi | Lontano | d6 magico   | A una mano | **Affidabile:** +1 ai tiri per colpire |
+| Sedia a Rotelle con Telaio Arcano Migliorata  | 2       | Incantesimi | Lontano | d6+3 magico | A una mano | **Affidabile:** +1 ai tiri per colpire |
+| Sedia a Rotelle con Telaio Arcano Avanzata    | 3       | Incantesimi | Lontano | d6+6 magico | A una mano | **Affidabile:** +1 ai tiri per colpire |
+| Sedia a Rotelle con Telaio Arcano Leggendaria | 4       | Incantesimi | Lontano | d6+9 magico | A una mano | **Affidabile:** +1 ai tiri per colpire |

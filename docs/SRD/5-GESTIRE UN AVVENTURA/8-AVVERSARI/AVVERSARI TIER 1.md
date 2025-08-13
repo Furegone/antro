@@ -21,23 +21,23 @@ Un grande orso con una folta pelliccia e artigli potenti.
 **Esperienza:** Assalitore +3, Sensi Acuti +2  
 
 **CARATTERISTICHE**  
-**Forza Travolgente – *Passiva*:** Bersagli che segnano PF dall’attacco standard vengono respinti a portata Molto Vicina.  
+**Forza Travolgente – *Passiva*:** i bersagli che perdono PF dall’attacco standard vengono respinti a portata Molto Vicina.  
 **Morso – *Azione*:** Segna 1 Stress per un attacco a portata Mischia; se ha successo, infligge **3d4+10 danni fisici** e il bersaglio è *Intrappolato* finché non si libera con un Tiro di Forza riuscito.  
 **Slancio – *Reazione*:** Quando l’Orso colpisce un PG con un attacco riuscito, guadagni 1 Paura.
 
 ##### CAVE OGRE
 **Tier 1 Solista**  
 Un umanoide massiccio che vede ogni vita senziente come cibo.  
-**Motivi & Tattiche:** Mordere teste, banchettare, strappare arti, calpestare, lanciare nemici  
+**Motivi & Tattiche:** Mozzare teste, banchettare, strappare arti, calpestare, scagliare i nemici  
 **Difficoltà:** 13 | **Soglie:** 8/15 | **PF:** 8 | **Stress:** 3  
 **Attacco:** +1 | **Clava:** Molto Vicino | 1d10+2 fisico  
 **Esperienza:** Lancio +2  
 
 **CARATTERISTICHE**  
 **Accelera – *Passiva*:** Devi spendere Paura per metterlo in risalto. In risalto può fare l’attacco standard contro tutti i bersagli a portata.  
-**Ossa Spezzate – *Passiva*:** I suoi attacchi infliggono danno diretto.  
+**Spezza Ossa – *Passiva*:** I suoi attacchi infliggono danno diretto.  
 **Pioggia di Massi – *Azione*:** Segna 1 Stress per raccogliere rocce e lanciarle contro i bersagli a portata Lontana. Attacco singolo; chi colpisce subisce **1d10+2 danni fisici**. Se colpisce più bersagli, ottieni 1 Paura.  
-**Furia Scatenata – *Reazione*:** Quando segna 2 o più PF, può scatenarsi. Si sposta a portata Vicina e infligge **2d6+3 danni fisici** a tutti i bersagli sul suo percorso.
+**Furia Scatenata – *Reazione*:** Quando perde 2 o più PF, può scatenarsi. Si sposta a portata Vicina e infligge **2d6+3 danni fisici** a tutti i bersagli sul suo percorso.
 
 ##### CONSTRUCT
 **Tier 1 Solista**  
@@ -49,9 +49,9 @@ Un automa umanoide di pietra e acciaio, animato dalla magia.
 **CARATTERISTICHE**  
 **Implacabile (2) – *Passiva*:** Può essere messo in risalto fino a due volte per turno; spendi Paura come di consueto.  
 **Struttura Debole – *Passiva*:** Quando segna PF da danno fisico, deve segnare 1 PF aggiuntivo.  
-**Calpestio – *Azione*:** Segna 1 Stress per un attacco su tutti i bersagli sul suo percorso; i bersagli colpiti subiscono **1d8 danni fisici**.  
+**Travolgere – *Azione*:** Segna 1 Stress per un attacco su tutti i bersagli sul suo percorso; i bersagli colpiti subiscono **1d8 danni fisici**.  
 **Sovraccarico – *Reazione*:** Prima di tirare i danni, puoi segnare 1 Stress per ottenere +10 al tiro danno. Il Construct può poi prendere nuovamente i riflettori.  
-**Terremoto Mortale – *Reazione*:** Quando segna l’ultimo PF, esplode in magia. Attacco con vantaggio su tutti a portata Molto Vicina; chi colpisce subisce **1d12+2 danni magici**.
+**Terremoto Mortale – *Reazione*:** Quando il Costrutto segna il suo ultimo PF, la magia che lo alimenta si spezza in un’esplosione di forza. Effettua un attacco con vantaggio contro tutti i bersagli entro portata **Molto Vicina**. I bersagli contro cui il Costrutto ha successo subiscono **1d12+2** danni magici.
 
 ##### COURTIER
 **Tier 1 Sociali**  
@@ -59,23 +59,23 @@ Un ambizioso mondano vestito sfarzosamente.
 **Motivi & Tattiche:** Screditare, ottenere favori, manovrare, tramare  
 **Difficoltà:** 12 | **Soglie:** 4/8 | **PF:** 3 | **Stress:** 4  
 **Attacco:** -4 | **Pugnali:** Mischia | 1d4+2 fisico  
-**Esperienza:** Socialite +3  
+**Esperienza:** Socializzare +3  
 
 **CARATTERISTICHE**  
-**Derisione – *Azione*:** Segna 1 Stress per insultare un bersaglio a portata Vicina; il bersaglio fa un Tiro Reazione di Presenza (14) per salvare la faccia. Se fallisce, segna 2 Stress ed è Vulnerabile finché la scena continua.  
+**Derisione – *Azione*:** Segna uno **Stress** per pronunciare qualcosa di derisorio e costringere un bersaglio entro portata Vicina a effettuare un **Tiro di Reazione di Presenza (14)** per verificare se riesce a salvare la faccia. In caso di fallimento, il bersaglio deve segnare **2 Stress** ed è **Vulnerabile** fino alla fine della scena. 
 **Capro Espiatorio – *Azione*:** Spendi 1 Paura e scegli un PG. Riesce a convincere una folla che quel PG è la causa del loro conflitto attuale.
 
 ##### DEEPROOT DEFENDER
 **Tier 1 Picchiatore**  
-Un uomo-vegetale robusto con viti afferranti.  
+Un corpulento essere vegetale con tralci afferranti.
 **Motivi & Tattiche:** Tendere imboscate, afferrare, proteggere, colpire  
 **Difficoltà:** 10 | **Soglie:** 8/14 | **PF:** 7 | **Stress:** 3  
-**Attacco:** +2 | **Viti:** Vicina | 1d8+3 fisico  
+**Attacco:** +2 | **Viticci:** Vicina | 1d8+3 fisico  
 **Esperienza:** Imponente +3  
 
 **CARATTERISTICHE**  
-**Grandine di Terra – *Azione*:** Colpisce il suolo, respingendo tutti a portata Molto Vicina fino a Lontana. Ogni bersaglio respinto segna 1 Stress.  
-**Afferra e Trascina – *Azione*:** Attacca un bersaglio a portata Vicina. Se ha successo, paga Paura per trascinarlo a portata Mischia, causando **1d6+2 danni fisici** e Restrain finché il Defender non subisce danni Severe.
+**Schianto al Suolo – *Azione*:** Colpisce il suolo, respingendo tutti a portata Molto Vicina fino a Lontana. Ogni bersaglio respinto segna 1 Stress.  
+**Afferra e Trascina – *Azione*:** Attacca un bersaglio a portata Vicina. Se ha successo, paga Paura per trascinarlo a portata Mischia, causando **1d6+2 danni fisici** e Trattenerlo finché il Defender non subisce danni Gravi.
 
 ##### DIRE WOLF
 **Tier 1 Furtivo**  
@@ -86,7 +86,7 @@ Un grande lupo dai denti terribili, raramente incontrato da solo.
 **Esperienza:** Sensi Acuti +3  
 
 **CARATTERISTICHE**  
-**Tattiche di Branco – *Passiva*:** Se il Lupo fa un attacco riuscito e un altro Dire Wolf è a portata Mischia del bersaglio, infliggi **1d6+5 danni fisici** e ottieni 1 Paura.  
+**Tattiche di Branco – *Passiva*:** Se il Lupo riesce in un attacco e un altro Dire Wolf è a portata di Mischia del bersaglio, infliggi **1d6+5 danni fisici** e ottieni 1 Paura.
 **Colpo Zoppicante – *Azione*:** Segna 1 Stress per attaccare un bersaglio a portata Mischia; se ha successo, infliggi **3d4+10 danni fisici** diretti e rendi il bersaglio Vulnerabile finché non perde almeno 1 PF.
 
 ##### GIANT MOSQUITOES
@@ -98,9 +98,9 @@ Dozzine di zanzare grandi come un pugno che volano in gruppo per sicurezza.
 **Esperienza:** Camuffamento +2  
 
 **CARATTERISTICHE**  
-**Orda (1d4+1) – *Passiva*:** Quando le Mosquitoes hanno segnato almeno metà dei PF, il loro attacco standard infligge **1d4+1 danni fisici**.  
+**Orda (1d4+1) – *Passiva*:** Quando le Mosquitoes hanno perso almeno metà dei PF, il loro attacco standard infligge **1d4+1 danni fisici**.  
 **Volo – *Passiva*:** In volo, hanno +2 alla loro Difficoltà.  
-**Sanguisuga – *Reazione*:** Quando uno dei loro attacchi causa PF a un bersaglio, puoi segnare 1 Stress perché il bersaglio segni 1 PF aggiuntivo.
+**Succhiasangue – *Reazione*:** Quando uno dei loro attacchi causa PF a un bersaglio, puoi segnare 1 Stress perché il bersaglio perda 1 PF aggiuntivo.
 
 ##### GIANT RAT
 **Tier 1 Sgherro**  
@@ -116,7 +116,7 @@ Un roditore grosso come un gatto, esperto nel cercare cibo e sopravvivere.
 
 ##### GIANT SCORPION
 **Tier 1 Picchiatore**  
-Un aracnide grande come un umano con chele laceranti e coda pungente.  
+Un insetto grande come un umano con chele laceranti e coda pungente.  
 **Motivi & Tattiche:** Imboscate, nutrirsi, combattere, avvelenare  
 **Difficoltà:** 13 | **Soglie:** 7/13 | **PF:** 6 | **Stress:** 3  
 **Attacco:** +1 | **Chele:** Mischia | 1d12+2 fisico  
@@ -124,8 +124,8 @@ Un aracnide grande come un umano con chele laceranti e coda pungente.
 
 **CARATTERISTICHE**  
 **Doppio Colpo – *Azione*:** Segna 1 Stress per un attacco standard contro due bersagli a portata Mischia.  
-**Aghi Velenosi – *Azione*:** Attacca un bersaglio a portata Molto Vicina. Se colpisce, spende 1 Paura per infliggere **1d4+4 danni fisici** e *Poison* finché non si riposano o falliscono un Tiro di Conoscenza (16). Mentre è *Poisoned*, il bersaglio tira un d6 prima di un tiro azione: con 4 o meno, segna 1 Stress.  
-**Impulso – *Reazione*:** Quando lo Scorpion ha successo in un attacco contro un PG, guadagni 1 Paura.
+**Pungiglione Velenoso – *Azione*:** Attacca un bersaglio a portata Molto Vicina. Se colpisce, spendi 1 Paura per infliggere **1d4+4 danni fisici** e *Veleno* finché non si riposa o riesce in un Tiro di Conoscenza (16). Mentre è *Avvelenato*, il bersaglio tira un d6 prima di ogni tiro azione: con 4 o meno, segna 1 Stress.  
+**Impulso – *Reazione*:** Quando lo Scorpione ha successo in un attacco contro un PG, guadagni 1 Paura.
 
 ##### GLASS SNAKE
 **Tier 1 Tipico**  
@@ -135,9 +135,9 @@ Un serpente trasparente con testa massiccia che lascia scie di schegge di vetro.
 **Attacco:** +2 | **Zanne di Vetro:** Molto Vicino | 1d8+2 fisico  
 
 **CARATTERISTICHE**  
-**Schegge Laceranti – *Passiva*:** In un attacco riuscito a portata Mischia, l’attaccante deve segnare uno slot Armatura senza benefici, oppure segna 1 PF aggiuntivo.  
+**Schegge Laceranti – *Passiva*:** Con un attacco riuscito a portata di Mischia, il bersaglio deve segnare uno slot Armatura senza benefici, se non può segnare uno slot armatura, perde 1 PF aggiuntivo.
 **Serpente Rotante – *Azione*:** Segna 1 Stress per attaccare tutti i bersagli a portata Molto Vicina; ognuno subisce **1d6+1 danni fisici**.  
-**Sputo – *Azione*:** Spendi 1 Paura per attivare un dado Spitter (d6). Quando il Snake è in risalto, lo tira: con 5 o più, tutti i bersagli di fronte a portata Lontana devono superare un Tiro Reazione di Agilità o subire **1d4 danni fisici**. Il Snake può prendere i riflettori una seconda volta in quel turno del GM.
+**Sputatore – *Azione*:** **Spendi una Paura** per attivare un **Dado Sputatore (d6)**. Quando il Serpente è sotto i riflettori, tira questo dado. Con un risultato di **5** o superiore, tutti i bersagli davanti al Serpente entro portata **Lontana** devono superare un **Tiro di Reazione di Agilità** o subire **1d4** danni fisici. Il Serpente può prendere i riflettori una seconda volta in questo turno del GM.
 
 ##### HARRIER
 **Tier 1 Tipico**
@@ -148,24 +148,24 @@ Un combattente agile armato di giavellotti.
 **Esperienza:** Camuffamento +2
 
 **CARATTERISTICHE**
-**Mantenere Distanza - *Passiva*:** Dopo aver fatto un attacco standard, l'Harrier può muoversi ovunque a portata Lontana.
+**Mantenere le Distanze - *Passiva*:** Dopo aver fatto un attacco standard, l'Harrier può muoversi ovunque a portata Lontana.
 **Ripiegare - *Reazione*:** Quando una creatura si muove a portata Mischia per fare un attacco, puoi segnare uno Stress prima del tiro attacco per muoverti ovunque a portata Vicina e fare un attacco contro quella creatura. In caso di successo, infliggi 1d10+2 danni fisici.
 
 ##### ARCHER GUARD
 **Tier 1 Attaccanti a distanza**
 Una guardia alta con un arco lungo e una faretra con frecce con le piume nei colori dell'insediamento.
-**Motivi & Tattiche:** Arrestare, chiudere cancelli, superare la giornata, inchiodare
+**Motivi & Tattiche:** Catturare, chiudere cancelli, superare la giornata, bloccare
 **Difficoltà:** 10 | **Soglie:** 4/8 | **PF:** 3 | **Stress:** 2
 **Attacco:** +1 | **Arco Lungo:** Lontana | 1d8+3 fisico
 **Esperienza:** Conoscenze Locali +3
 
 **CARATTERISTICHE**
-**Tiro Zoppicante - *Azione*:** Fai un attacco contro un bersaglio a portata Lontana. In caso di successo, segna uno Stress per infliggere 1d12+3 danni fisici. Se il bersaglio segna PF da questo attacco, ha svantaggio sui Tiri di Agilità finché non svuota almeno 1 PF.
+**Tiro Zoppicante - *Azione*:** Fai un attacco contro un bersaglio a portata Lontana. In caso di successo, segna uno Stress per infliggere 1d12+3 danni fisici. Se il bersaglio segna PF da questo attacco, ha svantaggio sui Tiri di Agilità finché non recupera almeno 1 PF.
 
 ##### BLADED GUARD
 **Tier 1 Tipico**
 Una guardia corazzata con una spada e uno scudo dipinti nei colori dell'insediamento.
-**Motivi & Tattiche:** Arrestare, chiudere cancelli, superare la giornata, inchiodare
+**Motivi & Tattiche:** Catturare, chiudere cancelli, superare la giornata, bloccare
 **Difficoltà:** 12 | **Soglie:** 5/9 | **PF:** 5 | **Stress:** 2
 **Attacco:** +1 | **Spada Lunga:** Mischia | 1d6+1 fisico
 **Esperienza:** Conoscenze Locali +3
@@ -177,7 +177,7 @@ Una guardia corazzata con una spada e uno scudo dipinti nei colori dell'insediam
 ##### HEAD GUARD
 **Tier 1 Comandante**
 Una guardia esperta con una mazza, un fischietto e una voce tonante.
-**Motivi & Tattiche:** Arrestare, chiudere cancelli, inchiodare, cercare gloria
+**Motivi & Tattiche:** Catturare, chiudere cancelli, bloccare, cercare gloria
 **Difficoltà:** 15 | **Soglie:** 7/13 | **PF:** 7 | **Stress:** 3
 **Attacco:** +4 | **Mazza:** Mischia | 1d10+4 fisico
 **Esperienza:** Comandante +2, Conoscenze Locali +2
@@ -185,11 +185,11 @@ Una guardia esperta con una mazza, un fischietto e una voce tonante.
 **CARATTERISTICHE**
 **Radunare Guardie - *Azione*:** Spendi 2 Paura per mettere in risalto l'Head Guard e fino a 2d4 alleati a portata Lontana.
 **Al Mio Segnale - *Reazione*:** Conto alla rovescia (5). Quando l'Head Guard è in risalto per la prima volta, attiva il conto alla rovescia. Scende quando un PG fa un tiro attacco. Quando si attiva, tutti gli Archer Guards a portata Lontana fanno un attacco standard con vantaggio contro il bersaglio più vicino a portata. Se qualche attacco ha successo sullo stesso bersaglio, combina il loro danno.
-**Slancio - *Reazione*:** Quando l'Head Guard fa un attacco riuscito contro un PG, guadagni una Paura.
+**Slancio - *Reazione*:** Quando l'Head Guard riesce in un attacco contro un PG, guadagni una Paura.
 
 ##### JAGGED KNIFE BANDIT
 **Tier 1 Tipico**
-Un astuto criminale in un mantello che porta uno dei coltelli iconici della banda.
+Un astuto criminale, avvolto in un mantello, armato con uno dei coltelli iconici della banda.
 **Motivi & Tattiche:** Fuggire, trarre profitto, rubare, lanciare fumo
 **Difficoltà:** 12 | **Soglie:** 8/14 | **PF:** 5 | **Stress:** 3
 **Attacco:** +1 | **Pugnali:** Mischia | 1d8+1 fisico
@@ -197,18 +197,18 @@ Un astuto criminale in un mantello che porta uno dei coltelli iconici della band
 
 **CARATTERISTICHE**
 **Arrampicatore - *Passiva*:** Il Bandit si arrampica con la stessa facilità con cui corre.
-**Dall'Alto - *Passiva*:** Quando il Bandit ha successo su un attacco standard dall'alto su un bersaglio, infligge 1d10+1 danni fisici invece del suo danno standard.
+**Dall'Alto - *Passiva*:** Quando il Bandit ha successo in un attacco standard dall'alto su di un bersaglio, infligge 1d10+1 danni fisici invece del suo danno standard.
 
 ##### JAGGED KNIFE HEXER
 **Tier 1 Supporti**
-Un bandito che brandisce un bastone in un mantello adornato di attrezzatura magica, che usa maledizioni per infastidire i suoi nemici.
+Un bandito armato di bastone, avvolto in un mantello ornato di oggetti magici, che usa maledizioni per infastidire i nemici.
 **Motivi & Tattiche:** Comandare, maledire, trarre profitto
 **Difficoltà:** 13 | **Soglie:** 5/9 | **PF:** 4 | **Stress:** 4
 **Attacco:** +2 | **Bastone:** Lontana | 1d6+2 magico
 **Esperienza:** Conoscenze Magiche +2
 
 **CARATTERISTICHE**
-**Maledizione - *Azione*:** Scegli un bersaglio a portata Lontana e Maledici temporaneamente. Mentre il bersaglio è Maledetto, puoi segnare uno Stress quando quel bersaglio tira con Speranza per far sì che il tiro sia invece con Paura.
+**Maledizione - *Azione*:** Scegli un bersaglio a portata Lontana e Maledicilo temporaneamente. Mentre il bersaglio è Maledetto, puoi segnare uno Stress quando quel bersaglio tira con Speranza per far sì che il tiro sia invece con Paura.
 **Flusso Caotico - *Azione*:** Fai un attacco contro un massimo di tre bersagli a portata Molto Vicina. Segna uno Stress per infliggere 2d6+3 danni magici ai bersagli che l'Hexer ha colpito.
 
 ##### JAGGED KNIFE KNEEBREAKER
@@ -220,8 +220,8 @@ Un imponente picchiatore che porta una grande mazza.
 **Esperienza:** Ladro +2, Minacce Svelate +3
 
 **CARATTERISTICHE**
-**Li Ho Presi - *Passiva*:** Le creature Imbrigliate dal Kneebreaker subiscono il doppio dei danni dagli attacchi di altri avversari.
-**Tienili Giù - *Azione*:** Fai un attacco contro un bersaglio a portata Mischia. In caso di successo, il bersaglio non subisce danni ma è Imbrigliato e Vulnerabile. Il bersaglio può liberarsi, rimuovendo entrambe le condizioni, con un Tiro di Forza riuscito o viene liberato automaticamente se il Kneebreaker subisce un danno Major o superiore.
+**Li Ho Presi - *Passiva*:** Le creature catturate dal Kneebreaker subiscono il doppio dei danni dagli attacchi di altri avversari.
+**Tienili Giù - *Azione*:** Fai un attacco contro un bersaglio a portata Mischia. In caso di successo, il bersaglio non subisce danni ma è Imbrigliato e Vulnerabile. Il bersaglio può liberarsi, rimuovendo entrambe le condizioni, con un Tiro di Forza riuscito o viene liberato automaticamente se il Kneebreaker subisce un danno Maggiore o superiore.
 
 ##### JAGGED KNIFE LACKEY
 **Tier 1 Sgherro**
@@ -235,7 +235,7 @@ Un ladro con vestiti semplici e piccoli pugnali, desideroso di mettersi alla pro
 **Sgherro (3) - *Passiva*:** Il Lackey viene sconfitto quando subisce un qualsiasi danno. Per ogni 3 danni che un PG infligge al Lackey, sconfiggi un Sgherro aggiuntivo a portata che l'attacco avrebbe colpito.
 **Attacco di Gruppo - *Azione*:** Spendi una Paura per scegliere un bersaglio e mettere in risalto tutti i Jagged Knife Lackeys a portata Vicina da esso. Quei Sgherri si muovono a portata Mischia del bersaglio e fanno un unico tiro attacco condiviso. In caso di successo, infliggono 2 danni fisici ciascuno. Combina questo danno.
 
-##### FRRACTURED KNIFE OFFICIAL
+##### JAGGED KNIFE LIEUTENANT
 **Tier 1 Comandante**
 Un bandito veterano in pelli di qualità, con una voce forte e occhi astuti.
 **Motivazioni e Tattiche:** Prevaricare, comandare, trarre profitto, rafforzare
@@ -244,12 +244,12 @@ Un bandito veterano in pelli di qualità, con una voce forte e occhi astuti.
 **Esperienza:** Conoscenze Locali +2
 
 **CARATTERISTICHE**
-**Tattico - *Azione*:** Quando metti in risalto l'Official, segna uno Stress per mettere in risalto anche due alleati a Distanza Vicina.
-**Ce n'è ancora da dove viene - *Azione*:** Evoca tre Fractured Knife Lackeys, che compaiono a Distanza Lontana.
+**Tattico - *Azione*:** Quando metti in risalto il Lieutenant, segna uno Stress per mettere in risalto anche due alleati a Distanza Vicina.
+**Ce n'è ancora da dove viene - *Azione*:** Evoca tre Jagged Knife Lackeys, che compaiono a Distanza Lontana.
 **Colpo di Grazia - *Azione*:** Spendi una Paura per fare un attacco contro un bersaglio Vulnerabile a Distanza Vicina. In caso di successo, infliggi 2d6+12 danni fisici e il bersaglio deve segnare uno Stress.
-**Slancio - *Reazione*:** Quando l'Official fa un attacco riuscito contro un PG, ottieni una Paura.
+**Slancio - *Reazione*:** Quando il Lieutenant riesce in un attacco contro un PG, ottieni una Paura.
 
-##### FRACTURED KNIFE SHADOW
+##### JAGGED KNIFE SHADOW
 **Tier 1 Furtivo**
 Un abile mascalzone che brandisce un coltello affilato e utilizza la magia dell'ombra per isolare i bersagli.
 **Motivazioni e Tattiche:** Agguato, nascondere, dividere, trarre profitto
@@ -258,10 +258,10 @@ Un abile mascalzone che brandisce un coltello affilato e utilizza la magia dell'
 **Esperienza:** Intrusione +3
 
 **CARATTERISTICHE**
-**Colpo alle Spalle - *Passivo*:** Quando lo Shadow ha successo su un attacco standard che ha vantaggio, infligge 1d6+6 danni fisici invece del suo danno standard.
-**Avvolto - *Azione*:** Diventa Nascosto fino a dopo il prossimo attacco dello Shadow. Gli attacchi effettuati mentre si è Nascosti grazie a questa caratteristica hanno vantaggio.
+**Colpo alle Spalle - *Passivo*:** Quando lo Shadow ha successo con un attacco standard che ha vantaggio, infligge 1d6+6 danni fisici invece del suo danno standard.
+**Occultato - *Azione*:** Diventa Nascosto fino a dopo il prossimo attacco dello Shadow. Gli attacchi effettuati mentre si è Nascosti grazie a questa caratteristica hanno vantaggio.
 
-##### FRACTURED KNIFE SNIPER
+##### JAGGED KNIFE SNIPER
 **Tier 1 Attaccanti a distanza**
 Un bandito allampanato che colpisce dalla copertura con un arco corto.
 **Motivazioni e Tattiche:** Agguato, nascondersi, trarre profitto, riposizionarsi
@@ -270,14 +270,14 @@ Un bandito allampanato che colpisce dalla copertura con un arco corto.
 **Esperienza:** Furtività +2
 
 **CARATTERISTICHE**
-**Colpo non Visto - *Passivo*:** Se lo Sniper è Nascosto quando fa un attacco standard riuscito contro un bersaglio, infligge 1d10+4 danni fisici invece del suo danno standard.
+**Colpo non Visto - *Passivo*:** Se lo Sniper è Nascosto quando riesce in un attacco standard contro un bersaglio, infligge 1d10+4 danni fisici invece del suo danno standard.
 
 ##### MERCHANT
 **Tier 1 Sociali**
 Un commerciante ben vestito con un occhio attento per il guadagno finanziario.
 **Motivazioni e Tattiche:** Comprare a poco e vendere a tanto, creare domanda, gonfiare i prezzi, cercare profitto
 **Difficoltà:** 12 | **Soglie:** 4/8 | **PF:** 3 | **Stress:** 3
-**Attacco:** -4 | **Club:** Mischia | 1d4+1 fisico
+**Attacco:** -4 | **Mazza:** Mischia | 1d4+1 fisico
 **Esperienza:** Negoziatore Astuto +3
 
 **CARATTERISTICHE**
@@ -289,15 +289,15 @@ Un commerciante ben vestito con un occhio attento per il guadagno finanziario.
 Una massa scintillante di magia incontrollabile.
 **Motivazioni e Tattiche:** Confondere, destabilizzare, trasmutare
 **Difficoltà:** 14 | **Soglie:** 7/14 | **PF:** 7 | **Stress:** 3
-**Attacco:** +3 | **Warp Blast:** Vicino | 1d12+6 magico
+**Attacco:** +3 | **Esplosione Distorta:** Vicino | 1d12+6 magico
 **Esperienza:**
 
 **CARATTERISTICHE**
 **Forma Arcana - *Passivo*:** L'Elemental è resistente al danno magico.
-**Flusso Nauseante - *Azione*:** Segna un PF per costringere tutti i bersagli a Distanza Vicina a segnare uno Stress e diventare Vulnerabili fino al loro prossimo riposo o finché non cancellano un PF.
+**Flusso Nauseante - *Azione*:** Segna un PF per costringere tutti i bersagli a Distanza Vicina a segnare uno Stress e diventare Vulnerabili fino al loro prossimo riposo o finché non recuperano un PF.
 **Rifare la Realtà - *Azione*:** Spendi una Paura per trasformare l'area a Distanza Molto Vicina in un bioma diverso. Tutti i bersagli all'interno di quest'area subiscono 2d6+3 danni magici diretti.
-**Riflessione Magica - *Reazione*:** Quando l'Elemental subisce danno da un attacco a Distanza Vicina, infliggi una quantità di danno all'attaccante pari a metà del danno che hanno inflitto.
-**Slancio - *Reazione*:** Quando l'Elemental fa un attacco riuscito contro un PG, ottieni una Paura.
+**Riflessione Magica - *Reazione*:** Quando l'Elemental subisce danno da un attacco a Distanza Vicina, infliggi una quantità di danno all'attaccante pari a metà del danno che ha inflitto.
+**Slancio - *Reazione*:** Quando l'Elemental riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### MINOR FIRE ELEMENTAL
 **Tier 1 Solista**
@@ -312,11 +312,11 @@ Una fiamma vivente delle dimensioni di un grande falò.
 **Terra Bruciata - *Azione*:** Segna uno Stress per scegliere un punto a Distanza Lontana. Il terreno a Distanza Molto Vicina da quel punto esplode immediatamente in fiamme. Tutte le creature all'interno di quest'area devono fare un Tiro Reazione Agilità. I bersagli che falliscono subiscono 2d8 danni magici dalle fiamme. I bersagli che hanno successo subiscono metà danno.
 **Esplosione - *Azione*:** Spendi una Paura per eruttare in una fiammeggiante esplosione. Fai un attacco contro tutti i bersagli a Distanza Vicina. I bersagli contro cui l'Elemental ha successo subiscono 1d8 danni magici e vengono respinti a Distanza Lontana.
 **Consumare Esca - *Reazione*:** Tre volte per scena, quando l'Elemental si muove su oggetti che sono altamente infiammabili, li consuma per cancellare un PF o uno Stress.
-**Slancio - *Reazione*:** Quando l'Elemental fa un attacco riuscito contro un PG, ottieni una Paura.
+**Slancio - *Reazione*:** Quando l'Elemental riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### MINOR DEMON
 **Tier 1 Solista**
-Una creatura di colore cremisi proveniente dai Cerchi Sotto, consumata dalla rabbia contro tutti i mortali.
+Una creatura di colore cremisi proveniente dai Cerchi Inferiori, consumata dalla rabbia contro tutti i mortali.
 **Motivazioni e Tattiche:** Agire in modo erratico, radunare bersagli, godere del dolore, tormentare
 **Difficoltà:** 14 | **Soglie:** 8/15 | **PF:** 8 | **Stress:** 4
 **Attacco:** +3 | **Artigli:** Mischia | 1d8+6 fisico
@@ -327,7 +327,7 @@ Una creatura di colore cremisi proveniente dai Cerchi Sotto, consumata dalla rab
 **Tutti Devono Cadere - *Passivo*:** Quando un PG ottiene un fallimento con Paura mentre si trova a Distanza Vicina dal Demon, perde una Speranza.
 **Fuoco Infernale - *Azione*:** Spendi una Paura per far piovere fuoco infernale a Distanza Lontana. Tutti i bersagli all'interno dell'area devono fare un Tiro Reazione Agilità. I bersagli che falliscono subiscono 1d20+3 danni magici. I bersagli che hanno successo subiscono metà danno.
 **Mietitore - *Reazione*:** Prima di tirare i dadi per il danno dell'attacco del Demon, puoi segnare uno Stress per ottenere un bonus al tiro danno pari al numero corrente di PF segnati del Demon.
-**Slancio - *Reazione*:** Quando il Demon fa un attacco riuscito contro un PG, ottieni una Paura.
+**Slancio - *Reazione*:** Quando il Demon riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### MINOR TREANT
 **Tier 1 Sgherro**
@@ -351,7 +351,7 @@ Un ammasso mobile di melma verde traslucida.
 
 **CARATTERISTICHE**
 **Lento - *Passivo*:** Quando metti in risalto la Melma e non ha un gettone sulla sua scheda, non può ancora agire. Metti un gettone sulla sua scheda e descrivi cosa si sta preparando a fare. Quando metti in risalto la Melma e ha un gettone sulla sua scheda, cancella il gettone e può agire.
-**Forma Acida - *Passivo*:** Quando la Melma fa un attacco riuscito, il bersaglio deve segnare uno Slot Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot Armatura, deve segnare un PF aggiuntivo.
+**Forma Acida - *Passivo*:** Quando la Melma riesce in un attacco, il bersaglio deve segnare uno Slot Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot Armatura, deve perdere un PF aggiuntivo.
 **Avvolgere - *Azione*:** Fai un attacco standard contro un bersaglio a distanza di Mischia. In caso di successo, la Melma lo avvolge e il bersaglio deve segnare 2 Stress. Il bersaglio deve segnare uno Stress aggiuntivo quando fa un tiro azione. Se la Melma subisce danno Grave, il bersaglio è liberato.
 **Dividere - *Reazione*:** Quando la Melma ha 3 o più PF segnati, puoi spendere una Paura per dividerla in due Tiny Green Oozes (senza PF o Stress segnati). Metti immediatamente in risalto entrambi.
 
@@ -364,7 +364,7 @@ Un piccolo ammasso mobile di melma verde traslucida.
 **Esperienza:**
 
 **CARATTERISTICHE**
-**Forma Acida - *Passivo*:** Quando la Melma fa un attacco riuscito, il bersaglio deve segnare uno Slot Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot Armatura, deve segnare un PF aggiuntivo.
+**Forma Acida - *Passivo*:** Quando la Melma riesce in un attacco, il bersaglio deve segnare uno Slot Armatura senza riceverne i benefici (può comunque usare l'armatura per ridurre il danno). Se non può segnare uno Slot Armatura, deve segnare un PF aggiuntivo.
 
 ##### RED OOZE
 **Tier 1 Furtivo**
@@ -393,14 +393,14 @@ Un piccolo ammasso mobile di melma rossa infuocata traslucida.
 ### PETTY NOBLE
 **Tier 1 Sociali**
 Un aristocratico riccamente vestito e adornato, pieno di arroganza.
-**Motivazioni e Tattiche:** Abusare del potere, raccogliere risorse, mobilitare i Sgherro
+**Motivazioni e Tattiche:** Abusare del potere, raccogliere risorse, mobilitare gli sgherri
 **Difficoltà:** 14 | **Soglie:** 6/10 | **PF:** 3 | **Stress:** 5
 **Attacco:** -3 | **Stocco:** Mischia | 1d6+1 fisico
 **Esperienza:** Aristocratico +3
 
 **CARATTERISTICHE**
 **La Mia Terra, Le Mie Regole - *Passivo*:** Tutte le azioni sociali fatte contro il Noble sulla sua terra hanno svantaggio.
-**Guardie, Afferrateli! - *Azione*:** Una volta per scena, segna uno Stress per evocare 1d4 Bladed Guards, che compaiono a Distanza Lontana per far rispettare la volontà del Noble.
+**Guardie, Prendeteli! - *Azione*:** Una volta per scena, segna uno Stress per evocare 1d4 Bladed Guards, che compaiono a Distanza Lontana per far rispettare la volontà del Noble.
 **Esilio - *Azione*:** Spendi una Paura e scegli un PG. Il Noble proclama che il bersaglio e i suoi alleati sono esiliati dal territorio del Noble. Mentre sono esiliati, il bersaglio e i suoi alleati hanno svantaggio durante le situazioni sociali nel dominio del Noble.
 
 ##### PIRATE CAPTAIN
@@ -412,10 +412,10 @@ Un carismatico lupo di mare con un cappello impressionante, desideroso di razzia
 **Esperienza:** Comandante +2, Marinaio +3
 
 **CARATTERISTICHE**
-**Swashbuckler - *Passivo*:** Quando il Captain segna 2 o meno PF da un attacco a distanza di Mischia, l'attaccante deve segnare uno Stress.
+**Spadaccino - *Passivo*:** Quando il Captain perde 2 o meno PF da un attacco a distanza di Mischia, l'attaccante deve segnare uno Stress.
 **Rinforzi - *Azione*:** Una volta per scena, segna uno Stress per evocare un Orda di Pirate Raiders, che compare a Distanza Lontana.
-**Nessun Quartiere - *Azione*:** Spendi una Paura per scegliere un bersaglio che ha tre o più Pirati a distanza di Mischia da lui. Il Captain guida i Pirati nel lanciare minacce e promesse di una tomba acquatica. Il bersaglio deve fare un Tiro Reazione Presenza. In caso di fallimento, il bersaglio segna 1d4+1 Stress. In caso di successo, deve segnare uno Stress.
-**Slancio - *Reazione*:** Quando il Captain fa un attacco riuscito contro un PG, ottieni una Paura.
+**Senza Quartiere - *Azione*:** Spendi una Paura per scegliere un bersaglio che ha tre o più Pirati a distanza di Mischia da lui. Il Captain guida i Pirati nel lanciare minacce e promesse di una tomba acquatica. Il bersaglio deve fare un Tiro Reazione Presenza. In caso di fallimento, il bersaglio segna 1d4+1 Stress. In caso di successo, deve segnare uno Stress.
+**Slancio - *Reazione*:** Quando il Captain riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### PIRATE RAIDERS
 **Tier 1 Orda (3/PF)**
@@ -426,8 +426,8 @@ Furfanti di mare che si muovono in un branco devastante.
 **Esperienza:** Marinaio +3
 
 **CARATTERISTICHE**
-**Orda (1d4+1) - *Passivo*:** Quando i Raiders hanno segnato metà o più dei loro PF, il loro attacco standard infligge invece 1d4+1 danni fisici.
-**Swashbuckler - *Passivo*:** Quando i Raiders segnano 2 o meno PF da un attacco a distanza di Mischia, l'attaccante deve segnare uno Stress.
+**Orda (1d4+1) - *Passivo*:** Quando i Raiders hanno segnato metà o più dei loro PF, il loro attacchi standard infliggono invece 1d4+1 danni fisici.
+**Spadaccino - *Passivo*:** Quando i Raiders segnano 2 o meno PF da un attacco a distanza di Mischia, l'attaccante deve segnare uno Stress.
 
 ##### PIRATE TOUGH
 **Tier 1 Picchiatore**
@@ -438,7 +438,7 @@ Un pirata muscoloso e tatuato con pugni grandi come meloni.
 **Esperienza:** Marinaio +2
 
 **CARATTERISTICHE**
-**Swashbuckler - *Passivo*:** Quando il Tough segna 2 o meno PF da un attacco a distanza di Mischia, l'attaccante deve segnare uno Stress.
+**Spadaccino - *Passivo*:** Quando il Tough segna 2 o meno PF da un attacco a distanza di Mischia, l'attaccante deve segnare uno Stress.
 **Sgomberare il Ponte - *Azione*:** Fai un attacco contro un bersaglio a Distanza Molto Vicina. In caso di successo, segna uno Stress per muoverti a distanza di Mischia dal bersaglio, infliggendo 3d4 danni fisici e respingendo il bersaglio a Distanza Vicina.
 
 ##### SELLSWORD
@@ -486,7 +486,7 @@ Un grande scheletro corazzato con una spada enorme.
 **Esperienza:**
 
 **CARATTERISTICHE**
-**Terrificante - *Passivo*:** Quando il Knight fa un attacco riuscito, tutti i PG a Distanza Vicina perdono una Speranza e tu ottieni una Paura.
+**Terrificante - *Passivo*:** Quando il Knight riesce in un attacco, tutti i PG a Distanza Vicina perdono una Speranza e tu ottieni una Paura.
 **Taglio fino all'Osso - *Azione*:** Segna uno Stress per fare un attacco contro tutti i bersagli a Distanza Molto Vicina. I bersagli contro cui il Knight ha successo subiscono 1d8+2 danni fisici e devono segnare uno Stress.
 **Scavare Due Tombe - *Reazione*:** Quando il Knight è sconfitto, fa un attacco contro un bersaglio a Distanza Molto Vicina (dando la priorità alla creatura che lo ha ucciso). In caso di successo, il bersaglio subisce 1d4+8 danni fisici e perde 1d4 Speranza.
 
@@ -499,7 +499,7 @@ Uno scheletro coperto di terra armato con una lama arrugginita.
 **Esperienza:**
 
 **CARATTERISTICHE**
-**Solista Ossa - *Passivo*:** Il Guerriero è resistente al danno fisico.
+**Solo Ossa - *Passivo*:** Il Guerriero è resistente al danno fisico.
 **Non Rimane Morto - *Reazione*:** Quando il Guerriero è sconfitto, puoi metterlo in risalto e tirare un d6. Con un risultato di 6, se ci sono altri avversari sul campo di battaglia, il Guerriero si riforma senza PF segnati.
 
 ##### SPELLBLADE
@@ -513,8 +513,8 @@ Un mercenario che combina la scherma e la magia con effetti letali.
 **CARATTERISTICHE**
 **Acciaio Arcano - *Passivo*:** Il danno inflitto dall'attacco standard dello Spellblade è considerato sia fisico che magico.
 **Esplosione Soppressiva - *Azione*:** Segna uno Stress e scegli un gruppo a Distanza Lontana. Tutti i bersagli devono avere successo su un Tiro Reazione Agilità o subire 1d8+2 danni magici. Ottieni una Paura per ogni bersaglio che ha segnato PF da questo attacco.
-**Muovere come un'Unità - *Azione*:** Spendi 2 Paura per mettere in risalto fino a cinque alleati a Distanza Lontana.
-**Slancio - *Reazione*:** Quando lo Spellblade fa un attacco riuscito contro un PG, ottieni una Paura.
+**Muoversi come Uno Solo - *Azione*:** Spendi 2 Paura per mettere in risalto fino a cinque alleati a Distanza Lontana.
+**Slancio - *Reazione*:** Quando lo Spellblade riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### SWARM OF RATS
 **Tier 1 Orda (10/PF)**
@@ -533,13 +533,13 @@ Una massa di roditori comuni che sciamano come un'onda famelica.
 Un guerriero fatato adornato con un'armatura fatta di foglie e corteccia.
 **Motivazioni e Tattiche:** Agguato, nascondersi, sopraffare, proteggere, seguire
 **Difficoltà:** 11 | **Soglie:** 6/11 | **PF:** 4 | **Stress:** 2
-**Attacco:** +0 | **Falda:** Mischia | 1d8+1 fisico
+**Attacco:** +0 | **Falce:** Mischia | 1d8+1 fisico
 **Esperienza:** Tracciatore +2
 
 **CARATTERISTICHE**
 **Tattiche di Branco - *Passivo*:** Se il Soldier fa un attacco standard e un altro Sylvan Soldier si trova a distanza di Mischia dal bersaglio, infligge 1d8+5 danni fisici invece del suo danno standard.
 **Controllo della Foresta - *Azione*:** Spendi una Paura per abbattere un albero a Distanza Vicina. Una creatura colpita dall'albero deve avere successo su un Tiro Reazione Agilità (15) o subire 1d10 danni fisici.
-**Confondersi - *Reazione*:** Quando il Soldier fa un attacco riuscito, puoi segnare uno Stress per diventare Nascosto fino al prossimo attacco del Soldier o finché un PG non ha successo su un Tiro Istinto (14) per trovarlo.
+**Confondersi - *Reazione*:** Quando il Soldier riesce in un attacco, puoi segnare uno Stress per diventare Nascosto fino al prossimo attacco del Soldier o finché un PG non ha successo su un Tiro Istinto (14) per trovarlo.
 
 ##### TANGLE BRAMBLE SWARM
 **Tier 1 Orda (3/PF)**
@@ -578,7 +578,7 @@ Un maestro d'armi che brandisce una spada due volte più grande di lui.
 **CARATTERISTICHE**
 **Colpo di Provocazione - *Azione*:** Fai un attacco standard contro un bersaglio. In caso di successo, segna uno Stress per Provocare il bersaglio fino al suo prossimo attacco riuscito. La prossima volta che il bersaglio Provocato attacca, ha svantaggio contro bersagli diversi dal Weaponmaster.
 **Scarica di Adrenalina - *Azione*:** Una volta per scena, spendi una Paura per cancellare 2 PF e 2 Stress.
-**Slancio - *Reazione*:** Quando il Weaponmaster fa un attacco riuscito contro un PG, ottieni una Paura.
+**Slancio - *Reazione*:** Quando il Weaponmaster riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### YOUNG DRYAD
 **Tier 1 Comandante**
@@ -586,38 +586,38 @@ Una persona-albero imperiosa che guida le difese della sua foresta.
 **Motivazioni e Tattiche:** Comandare, nutrire, potare gli indesiderati
 **Difficoltà:** 11 | **Soglie:** 6/11 | **PF:** 6 | **Stress:** 2
 **Attacco:** +0 | **Falce:** Mischia | 1d8+5 fisico
-**Esperienza:** Comandanteship +3
+**Esperienza:** Comandare +3
 
 **CARATTERISTICHE**
 **Voce della Foresta - *Azione*:** Segna uno Stress per mettere in risalto 1d4 alleati a distanza di un bersaglio che possono attaccare senza muoversi. In caso di successo, i loro attacchi infliggono metà danno.
 **Gabbia Spinosa - *Azione*:** Spendi una Paura per formare una gabbia attorno a un bersaglio a Distanza Molto Vicina e Immobilizzarlo finché non viene liberato con un Tiro Forza riuscito. Quando una creatura fa un tiro azione contro la gabbia, deve segnare uno Stress.
-**Slancio - *Reazione*:** Quando la Dryad fa un attacco riuscito contro un PG, ottieni una Paura.
+**Slancio - *Reazione*:** Quando la Dryad riesce in un attacco contro un PG, ottieni una Paura.
 
 ##### BRAWNY ZOMBIE
 **Tier 1 Picchiatore**
 Un grande cadavere, gonfio di decomposizione e arrabbiato.
-**Motivazioni e Tattiche:** Schiacciare, distruggere, lanciare detriti, sbattere
+**Motivazioni e Tattiche:** Schiacciare, distruggere, lanciare detriti, schiantare
 **Difficoltà:** 10 | **Soglie:** 8/15 | **PF:** 7 | **Stress:** 4
 **Attacco:** +2 | **Schianto:** Molto Vicina | 1d12+3 fisico
 **Esperienza:** Danno Collaterale +2, Lancio +4
 
 **CARATTERISTICHE**
 **Lento - *Passivo*:** Quando metti in risalto lo Zombie e non ha un gettone sulla sua scheda, non può ancora agire. Metti un gettone sulla sua scheda e descrivi cosa si sta preparando a fare. Quando metti in risalto lo Zombie e ha un gettone sulla sua scheda, cancella il gettone e può agire.
-**Squarciare a Pezzi - *Azione*:** Fai un attacco standard con vantaggio contro un bersaglio che lo Zombie ha Immobilizzato. In caso di successo, l'attacco infligge danno diretto.
+**Fare a Pezzi - *Azione*:** Fai un attacco standard con vantaggio contro un bersaglio che lo Zombie ha Immobilizzato. In caso di successo, l'attacco infligge danno diretto.
 **Lacerare e Squarciare - *Reazione*:** Quando lo Zombie fa un attacco standard riuscito, puoi segnare uno Stress per Immobilizzare temporaneamente il bersaglio e costringerlo a segnare 2 Stress.
 
 ##### PATCHWORK ZOMBIE HULK
 **Tier 1 Solista**
-Un gigantesco amalgama di cadaveri che si muovono come uno, con arti grandi come busti e pugni grandi quanto un halfling adulto.
+Una gigantesca amalgama di cadaveri che si muovono come uno, con arti grandi come busti e pugni grandi quanto un halfling adulto.
 **Motivazioni e Tattiche:** Assorbire cadaveri, agitarsi, avere fame, terrorizzare
 **Difficoltà:** 13 | **Soglie:** 8/15 | **PF:** 10 | **Stress:** 3
-**Attacco:** +4 | **Troppi Braccia:** Molto Vicina | 1d20 fisico
-**Esperienza:** Intimidazione +2, Lacerare Cose a Pezzi +2
+**Attacco:** +4 | **Troppe Braccia:** Molto Vicina | 1d20 fisico
+**Esperienza:** Intimidazione +2, Fare a Pezzi +2
 
 **CARATTERISTICHE**
 **Distruttibile - *Passivo*:** Quando lo Zombie subisce un danno Maggiore o superiore, segna un PF aggiuntivo.
-**Arti che Sferragliano - *Passivo*:** Quando lo Zombie fa un attacco standard, può attaccare tutti i bersagli a Distanza Molto Vicina.
-**Un Altro per il Mucchio - *Azione*:** Quando lo Zombie si trova a Distanza Molto Vicina da un cadavere, può incorporarlo in sé, cancellando un PF e uno Stress.
+**Arti Scomposti- *Passivo*:** Quando lo Zombie fa un attacco standard, può attaccare tutti i bersagli a Distanza Molto Vicina.
+**Un'Altro per il Mucchio - *Azione*:** Quando lo Zombie si trova a Distanza Molto Vicina da un cadavere, può incorporarlo in sé, cancellando un PF e uno Stress.
 **Urla Tormentate - *Azione*:** Segna uno Stress per far fare a tutti i PG a Distanza Lontana un Tiro Reazione Presenza (13). I bersagli che falliscono perdono una Speranza e tu ottieni una Paura per ciascuno. I bersagli che hanno successo devono segnare uno Stress.
 
 ##### ROTTED ZOMBIE
