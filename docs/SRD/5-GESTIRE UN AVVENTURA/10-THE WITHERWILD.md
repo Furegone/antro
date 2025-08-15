@@ -97,7 +97,7 @@ Nessun avversario o alleato è completamente buono o cattivo, e ognuno ha vite m
 ##### LE SETTIMANE DI GIORNO E NOTTE
 Il ciclo di giorno e notte avviene settimanalmente, il che significa che il sole sorge per un'intera settimana prima di tramontare in una notte della stessa durata. Questo influisce su ogni aspetto della vita, dall'agricoltura al commercio, poiché molti mercanti si rifiutano di viaggiare durante la notte. Ma questo ciclo non influenza solo i gli abitanti di Fanewick: ha anche plasmato l'evoluzione della straordinaria ecologia di Fanewick. Giorno e notte sono accompagnati da paesaggi sonori naturali completamente diversi: gli abitanti notturni dormono durante i lunghi giorni e si aggirano nei boschi durante i periodi d’oscurità, mentre le loro controparti diurne fanno il contrario. Anche le piante vivono secondo questo insolito ciclo: molte completano l'intero ciclo vitale in una sola settimana. Le rose del sole nascente si arrampicano in modo spinoso fino alla cima della volta arborea durante il giorno, per poi appassire sotto la luce lunare. Al contrario, il fiore notturno, un fiore bioluminescente che emette l’odore di zucchero bruciato e decomposizione, sboccia solo al calare della sera, illuminando tratti di foresta — una vera benedizione per chi è costretto a viaggiare nel buio.
 
-##### LA piaga DEL SERPENTE
+##### LA PIAGA DEL SERPENTE
 La piaga che si sta diffondendo attraverso Haven non risparmia nessuno. Fin dalla prima epidemia, i funzionari di Haven hanno lavorato instancabilmente per mettere in quarantena coloro che si trovano nelle fasi iniziali della malattia, ma questi sforzi hanno fatto ben poco per arrestarne la diffusione. A causa della rarità del Velo Cremisi della Signora, molti cittadini hanno iniziato a portare con sé o consumare ogni sorta di fiore e muta di serpente, nel tentativo di proteggersi o curarsi. Nelle prime fasi, le vittime sono afflitte da una tosse secca e polverosa, simile a polvere d’ossa. Poi, una scagliosa eruzione cutanea compare sulla pelle, screpolandola in un motivo unico e doloroso che ricorda la pelle di un serpente. Poco dopo, i loro corpi iniziano a indurirsi finché gli organi interni si solidificano e smettono di funzionare. Le fasi finali della Piaga del Serpente sono così rapide che molti si trasformano in statue dove si trovano, lasciando Haven come un immenso cenotafio di un potere ormai svanito.
 
 ##### IL VELO DELLA SIGNORA
@@ -145,7 +145,7 @@ Kreil consiglia al gruppo di iniziare la caccia nel **villaggio arboreo di Alula
 #### MECCANICHE DI CAMPAGNA
 Le seguenti meccaniche sono uniche per questa campagna.
 
-##### CORRuzione del WITHERWILD
+##### CORRUZIONE del WITHERWILD
 Avversari e ambienti in questa campagna possono acquisire una nuova condizione: **Withered** (Corrotto).  
 Quando un avversario è _Withered_, descrivi in che modo la Witherwild ha alterato il suo aspetto o il suo comportamento normale.
 Avrai bisogno di circa 20 **Segnalini Wither** (puoi usare gli stessi token che usi per la _Paura_).

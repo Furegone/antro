@@ -54,7 +54,9 @@ In caso di **Fallimento con Paura**, descrivi come le cose vanno male, quindi fa
 - Sono separati dal loro party
 - Perdono un'opportunità importante per sempre.
 
-##### RIFERIMENTO RAPIDO: RISOLVERE I TIRI DI AZIONE
+#### RIFERIMENTO RAPIDO:
+
+##### RISOLVERE I TIRI DI AZIONE
 
 *Se non sei sicuro di come risolvere un tiro, pensa a queste frasi rapide:*
 

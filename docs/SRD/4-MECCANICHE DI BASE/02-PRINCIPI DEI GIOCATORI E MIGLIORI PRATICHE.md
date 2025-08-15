@@ -16,12 +16,12 @@ Per ottenere il massimo da Daggerheart, raccomandiamo ai giocatori di tenere a m
 
 #### MIGLIORI PRATICHE
 
-- Abbraccia il pericolo.
+Abbraccia il pericolo.
 
-- Usa le tue risorse.
+Usa le tue risorse.
 
-- Racconta la storia.
+Racconta la storia.
 
-- Scopri il tuo personaggio.  
+Scopri il tuo personaggio.  
 
 > Per maggiori informazioni, consulta il Manuale  Base di Daggerheart , pagine 9 e 108.

@@ -12,6 +12,6 @@ Anche i GM fanno mosse. Dovrebbero considerare di fare una mossa quando un gioca
 
 Dopo che il turno del GM è finito, il riflettore torna ai PG.
 
-Molti avversari e ambienti possiedono **Caratteristiche Paura**: mosse particolarmente potenti o consequenziali che il GM deve attivare spendendo Paura.
+**Molti avversari e ambienti possiedono Caratteristiche Paura: mosse particolarmente potenti o consequenziali che il GM deve attivare spendendo Paura.**
 
-Nota: Questo Paura è in aggiunta a qualsiasi Paura il GM abbia precedentemente speso per prendere il riflettore o attivare un'altra azione o abilità.
+**Nota: Questo Paura è in aggiunta a qualsiasi Paura il GM abbia precedentemente speso per prendere il riflettore o attivare un'altra azione o abilità.**

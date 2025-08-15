@@ -11,7 +11,8 @@ Per le armi, il numero di dadi di danno che tiri è uguale alla tua **Competenza
 > Ad esempio, un PG con Competenza 2 che brandisce un'arma con un dado di danno di "d8+2" infligge danni pari a "2d8+2" su un attacco riuscito. Gli attacchi senz'arma riusciti infliggono Competenza d4 danni.
 
 ##### DANNO CRITICO  
-Quando ottieni un successo critico (cioè, tiri valori corrispondenti sui tuoi dadi della dualità) su un tiro di attacco, infliggi danni extra. Effettua il tiro per i danni come di consueto, ma aggiungi il massimo risultato possibile dei dadi di danno al totale finale. Ad esempio, se un attacco normalmente infliggerebbe 2d8+1 danni, un successo critico infliggerebbe 2d8+1+16.
+Quando ottieni un successo critico (cioè, tiri valori corrispondenti sui tuoi dadi della dualità) su un tiro di attacco, infliggi danni extra. Effettua il tiro per i danni come di consueto, ma aggiungi il massimo risultato possibile dei dadi di danno al totale finale. 
+Ad esempio, se un attacco normalmente infliggerebbe 2d8+1 danni, un successo critico infliggerebbe 2d8+1+16.
 
 ##### TIPI DI DANNO  
 Esistono due tipi di danno: **danno fisico (Fisico)** e **danno magico (Magico)**. Salvo diversamente indicato, le armi comuni e gli attacchi senz'arma infliggono danno fisico, e gli incantesimi infliggono danno magico.

@@ -32,7 +32,7 @@ Alcune azioni ed effetti specificano nella loro descrizione quale tratto si appl
 ##### FASE 2: DETERMINA LA DIFFICOLTÀ
 Alcune azioni e caratteristiche indicano nella loro descrizione qual'è la Difficoltà. Altrimenti, il GM determina la Difficoltà in base allo scenario. Il GM può scegliere se condividere la Difficoltà con il tavolo. In entrambi i casi, il GM dovrebbe comunicare le potenziali conseguenze del fallimento al giocatore attivo.
 
-##### PASSO 3: APPLICARE DADI AGGIUNTIVI E MODIFICATORI
+##### FASE 3: APPLICARE DADI AGGIUNTIVI E MODIFICATORI
 Il giocatore che agisce decide se utilizzare un'Esperienza o attivare altri effetti, quindi, se applicabile, aggiunge i token e i dadi appropriati (come dadi di vantaggio o dadi radunare) alla sua riserva di dadi.  
 
 > **Nota:** A meno che un'azione, un'abilità o una caratteristica non lo permetta specificamente, un giocatore deve dichiarare l'uso di qualsiasi Esperienza, dado extra o altro modificatore prima di tirare.

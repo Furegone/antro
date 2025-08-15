@@ -55,7 +55,7 @@ Queste tre sezioni forniscono una base per aiutarti a trarre il massimo da quest
 ##### RIFORMULA PIUTTOSTO CHE RIGETTARE
 Se il contributo di un giocatore è in conflitto con la finzione, lavora con lui per rimodellarlo.
 
-##### LAVORA IN MOMENTI E MONTAGGI
+##### LAVORA IN MOMENTI 
 *Quando inquadri una scena, decidi quali battute devono essere assaporate e quali non devono indugiare.*
 
 #### TRAPPOLE DA EVITARE

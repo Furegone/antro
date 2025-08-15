@@ -1,6 +1,6 @@
 *Questa sezione fornisce ulteriori indicazioni per preparare e gestire una sessione di Daggerheart.*
 
-#### MOMENTO
+#### MOMENTI
 Nella narrazione, un **momento** è un punto che cambia la traiettoria della storia: un cambiamento nel mondo, un'azione o reazione significativa, una rivelazione emotiva o una decisione importante. Fai a turno con i giocatori, narrando un momento e poi lasciando che loro reagiscano e portino avanti la scena con i loro propri momenti. Quando ti prepari per una sessione, pianifica in termini di **momenti** che danno forma a ogni scena o sequenza, piuttosto che pre-scrivere dettagli o scambi specifici.
 
 #### PREPARARE INCONTRI DI COMBATTIMENTO

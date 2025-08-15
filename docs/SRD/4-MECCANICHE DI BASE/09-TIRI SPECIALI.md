@@ -26,4 +26,4 @@ Su un Tiro Azione di Squadra riuscito, entrambi i giocatori tirano i danni e som
 
 > **Nota:**  
 > Un Tiro Azione di Squadra conta come un singolo tiro azione ai fini di eventuali conto alla rovescia o caratteristiche che tracciano i tiri azione.  
->  > Anche se ogni giocatore può avviare solo un Tiro Azione di Squadra per sessione, un PG può essere coinvolto in più tiri Tag Team.
+>  > Anche se ogni giocatore può avviare solo un Tiro Azione di Squadra per sessione, un PG può essere coinvolto in più TirI Azione di Squadra.

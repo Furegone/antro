@@ -19,7 +19,7 @@ Il Daggerheart SRD non è un sostituto del manuale di regole principale, che con
 In breve, è Daggerheart, il sistema, ridotto all'essenziale — un'offerta snella e pulita senza tutto il "tono narrativo", lo stile e il materiale di supporto che rendono il manuale di regole principale una lettura così evocativa e piacevole. Speriamo che questo documento si riveli utile per la vostra tavola. Buone avventure!
 
 ### LE BASI
-### COS'È DAGGERHEART?
+#### COS'È DAGGERHEART?
 Daggerheart è un gioco di ruolo da tavolo per un Game Master ("GM") e 2-5 giocatori. Ogni sessione di gioco dura circa 2-4 ore, e Daggerheart può essere giocato come una "one-shot" o una campagna multi-sessione di qualsiasi durata.
 Durante una sessione di Daggerheart il GM descrive le situazioni, narra gli eventi e controlla eventuali avversari o ostacoli che i Personaggi Giocanti ("PG") incontrano. I giocatori, a loro volta, interpretano le reazioni dei loro PG allo scenario presentato dal GM. Se l'esito di un'azione del giocatore dipende dal fato o dalla fortuna, il GM richiede un tiro d'azione.
 Quando un giocatore effettua un tiro d'azione, utilizza i Dadi Dualità — due dadi a 12 facce ("d12") di colore diverso che rappresentano Speranza e Paura. I Dadi Dualità vengono tirati, i modificatori rilevanti vengono aggiunti ai risultati e il totale viene confrontato con una Difficoltà impostata dal GM. Se il totale raggiunge o supera la Difficoltà, il giocatore ha successo. Se è inferiore, fallisce. Inoltre, la situazione cambia a seconda di quale Dado Dualità ottiene un risultato più alto, dando al giocatore utili token Speranza o generando terrificanti token Paura per il GM.

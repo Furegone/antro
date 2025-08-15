@@ -122,6 +122,7 @@ Quando un avversario perde il suo ultimo Punto Ferita, viene sconfitto: incapaci
 [Avversari Tier 4](/docs/SRD/5-GESTIRE%20UN%20AVVENTURA/8-AVVERSARI/AVVERSARI%20TIER%204.md)
 
 
+### USARE GLI AMBIENTI
 *Gli ambienti rappresentano tutto in una scena al di là dei PG e degli avversari, come lo spazio fisico, gli NPC di sfondo e le forze naturali.*
 
 #### BLOCCO STATISTICHE DELL’AMBIENTE

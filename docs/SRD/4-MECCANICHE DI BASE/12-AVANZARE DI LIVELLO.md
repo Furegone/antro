@@ -2,10 +2,10 @@ Il tuo gruppo sale di livello ogni volta che il GM decide che hai raggiunto un t
 
 Daggerheart ha 10 livelli PG divisi in 4 Tier:
 
-> → Il Tier 1 comprende solo il livello 1.  
-> → Il Tier 2 comprende i livelli 2-4.  
-> → Il Tier 3 comprende i livelli 5-7.  
-> → Il Tier 4 comprende i livelli 8-10.
+→ Il Tier 1 comprende solo il livello 1.  
+→ Il Tier 2 comprende i livelli 2-4.  
+→ Il Tier 3 comprende i livelli 5-7.  
+→ Il Tier 4 comprende i livelli 8-10.
 
 Il tuo Tier influisce sulle tue soglie di danno, obiettivi di Tier e accesso ai miglioramenti.
 
@@ -46,5 +46,5 @@ Scegli due **miglioramenti** qualsiasi con almeno uno slot non contrassegnato da
 Aumenta tutte le soglie di danno di 1.
 
 #### PASSO QUATTRO
-##### DOMAIN CARDS
+##### CARTE DI DOMINIO
 Acquisisci una nuova carta di dominio al tuo livello o inferiore da uno dei domini della tua classe e aggiungila al tuo dotazione o riserva. Se la tua dotazione è già piena, non puoi aggiungere la nuova carta fino a quando non ne sposti un'altra nella tua riserva. Puoi anche scambiare una carta di dominio che hai precedentemente acquisito con una carta di dominio diversa dello stesso livello o inferiore.
