@@ -101,7 +101,7 @@ plugins: [
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://furegone.github.io/antro/img/docusaurus-social-card2.jpg?v=3',
+      image: '/img/docusaurus-social-card3.jpg',
       navbar: {
         title: 'Antro del Furegone',
         logo: {
