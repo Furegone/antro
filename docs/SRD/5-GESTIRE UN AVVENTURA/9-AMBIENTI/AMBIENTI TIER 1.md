@@ -8,9 +8,9 @@ Un ex boschetto druidico lasciato a riposo e completamente reclamato dalla natur
 **CARATTERISTICHE**
 
 **Campo di Battaglia Invaso - *Passiva*:** C’è stata una battaglia qui. Un PG può fare un Tiro Istinto per identificare le prove di quella lotta. Con un successo con Speranza, scopre tutte e tre le informazioni seguenti. Con un successo con Paura, ne scopre due. In caso di fallimento, un PG può segnare uno Stress per scoprirne una e ottenere vantaggio sul prossimo tiro azione per indagare su questo ambiente. Un PG con un background o Esperienza appropriata può scoprire un dettaglio aggiuntivo e fare una domanda di follow-up sulla scena e ottenere una risposta veritiera (anche se non sempre completa).
-- Tracce di una battaglia (armi e rami rotti, solchi nel terreno) ingombrano il suolo.
-- Un tronco d’albero coperto di muschio è in realtà il cadavere di un Treant.
-- Gli alberi ancora in piedi sono contorti in modi strani, come da una magia potente.
+• Tracce di una battaglia (armi e rami rotti, solchi nel terreno) ingombrano il suolo.
+• Un tronco d’albero coperto di muschio è in realtà il cadavere di un Treant.
+• Gli alberi ancora in piedi sono contorti in modi strani, come da una magia potente.
 Perché questi gruppi sono venuti alle mani? Perché il boschetto è inutilizzato ora?
 **Viticci Spinosi - *Azione*:** Scegli un punto all’interno del boschetto. Tutti i bersagli a distanza Molto Vicina da quel punto devono riuscire in un Tiro Reazione di Agilità o subire 1d8+3 danni fisici e diventare Trattenuti dai viticci spinosi. Trattenuto dura finché non vengono liberati con un Tiro di Finezza o Forza riuscito o infliggendo almeno 6 danni ai viticci. Quanti viticci ci sono? Dove ti afferrano? Ti tirano giù o ti sollevano da terra?
 **Non Sei Il Benvenuto Qui - *Azione*:** Una Young Dryad, due Sylvan Soldier e un numero di Minor Treant pari al numero di PG appaiono per affrontare il gruppo per la loro intrusione. Cosa stanno nascondendo i guardiani del boschetto? Quale minaccia per la foresta potrebbero affrontare i PG per placare la Dryad?
