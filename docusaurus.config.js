@@ -111,6 +111,7 @@ plugins: [
         items: [
           {to: '/docs/SRD/DAGGERHEART', label: 'SRD', position: 'left'},
           {to: '/grid', label: 'Links', position: 'left'},
+          {to: '/modulo', label: 'Modulo Foundry', position: 'left'}, // ← qui
           { type: 'search', position: 'right'}, // ← Casella di ricerca
         ],
       },
@@ -123,11 +124,15 @@ plugins: [
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Progetti',
             items: [
               {
                 label: 'Daggerheart SRD',
                 to: '/docs/SRD/DAGGERHEART',
+              },
+                            {
+                label: 'Modulo Foundry',
+                to: '/modulo',
               },
             ],
           },

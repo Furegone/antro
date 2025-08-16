@@ -229,3 +229,15 @@ blockquote {
 .content-box-link:hover {
   text-decoration: none;
 }
+
+/* Rende full-width solo la pagina modulo.mdx */
+.fullWidthPage .container {
+  max-width: 100% !important;
+  padding: 0 1rem; /* un po’ di margine ai lati per non schiacciare il testo */
+}
+
+.moduloPage .moduloPage__title {
+  display: block;
+  text-align: center;
+  font-size: 2.2rem;
+}

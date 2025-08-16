@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import NewsSection from "@site/src/pages/NewsSection";
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
@@ -10,11 +11,13 @@ export default function Home() {
       description="Benvenuto nella home di Furegone">
       
       <main className={styles.mainContainer}>
+        <NewsSection />
         {/* Le due colonne (affiancate su desktop, verticali su mobile) */}
         <section className={styles.quickLinks}>
   <div className={styles.buttonsRow}>
     <a className={styles.quickButton} href="/antro/docs/SRD/DAGGERHEART">Daggerheart SRD</a>
-        <a className={styles.quickButton} href="/antro/grid">Links</a>
+    <a className={styles.quickButton} href="/antro/grid">Links</a>
+     <a className={styles.quickButton} href="/antro/modulo">Modulo Foundry</a>
   </div>
 </section>
         <section className={styles.columnsContainer}>
