@@ -11,9 +11,9 @@ Spessa cenere indaco riempie l’aria attorno a un imponente albero coperto di m
 Che sensazione si prova a lavorare con la magia in questo luogo toccato dal caos?
 Cosa temi che accada se perdi il controllo dell’incantesimo?
 **La Fiamma Indaco - *Passiva***: I PG che si avvicinano all’albero centrale possono fare un Tiro Conoscenza per cercare di identificare la magia che ha consumato questo ambiente.
-* Con un successo: Scoprono tre dei dettagli seguenti. Con un successo con Paura, ne scoprono due.
-* In caso di fallimento: Possono segnare uno Stress per scoprirne uno e ottenere vantaggio sul prossimo tiro azione per indagare su questo ambiente.
-* Dettagli: Questo è il risultato della magia dei Caduti. La corruzione si diffonde attraverso il muschio cinereo. Può essere purificata solo da un rituale di magia della natura con un Conto alla Rovescia Progresso (8).
+• Con un successo: Scoprono tre dei dettagli seguenti. Con un successo con Paura, ne scoprono due.
+• In caso di fallimento: Possono segnare uno Stress per scoprirne uno e ottenere vantaggio sul prossimo tiro azione per indagare su questo ambiente.
+• Dettagli: Questo è il risultato della magia dei Caduti. La corruzione si diffonde attraverso il muschio cinereo. Può essere purificata solo da un rituale di magia della natura con un Conto alla Rovescia Progresso (8).
 Quale culto dei Caduti ha corrotto questi boschi?
 Cosa hanno già fatto con il legno maledetto e la linfa di questo albero?
 **Viticci Afferranti - *Azione***: I viticci animati che si ergono con spine si scagliano dalla boscaglia per intrappolare i PG. Un bersaglio deve riuscire in un Tiro Reazione di Agilità o diventare Immobilizzato e Vulnerabile finché non si libera, eliminando entrambe le condizioni, con un Tiro di Finezza o Forza riuscito o infliggendo 10 danni ai viticci. Quando il bersaglio effettua un tiro per fuggire, subisce 1d8+4 danni fisici e perde una Speranza.
@@ -40,8 +40,8 @@ Quali difese devono superare i personaggi per assaltare il castello?
 **Rinforzi! - *Azione***: Evoca un Knight of the Realm, un numero di Scagnozzi di Tier 3 pari al numero di PG e due avversari a tua scelta a distanza Lontana da un PG scelto come rinforzi. Il Knight of the Realm prende immediatamente i riflettori.
 Chi stanno prendendo di mira per primo? Che formazione assumono?
 **Danni Collaterali - *Reazione***: Quando un avversario viene sconfitto, puoi spendere una Paura per far sì che un attacco vagante di un’arma d’assedio colpisca un punto sul campo di battaglia. Tutti i bersagli a distanza Molto Vicina da quel punto devono fare un Tiro Reazione di Agilità.
-* I bersagli che falliscono subiscono 3d8+3 danni fisici o magici e devono segnare uno Stress.
-* I bersagli che hanno successo devono segnare uno Stress.
+• I bersagli che falliscono subiscono 3d8+3 danni fisici o magici e devono segnare uno Stress.
+• I bersagli che hanno successo devono segnare uno Stress.
 Quali detriti vengono sparsi dall’attacco? Cosa viene rotto dal colpo che non può essere facilmente riparato?
 
 ##### PITCHED BATTLE
