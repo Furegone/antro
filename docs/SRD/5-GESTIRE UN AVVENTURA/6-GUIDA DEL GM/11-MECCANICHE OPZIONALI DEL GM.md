@@ -16,7 +16,9 @@ Se un personaggio si scontra con un oggetto o un altro personaggio a una velocit
 
 ##### MUOVERSI E COMBATTERE SOTT'ACQUA
 Di default, i tiri attacco fatti mentre l'attaccante è sott'acqua hanno svantaggio.
-Per le creature che non possono respirare sott'acqua, usa un conto alla rovescia standard (3) per tenere traccia di quanto a lungo possono trattenere il respiro. Fai avanzare il conto alla rovescia ogni volta che il PG compie un'azione. Inoltre, se fallisce un tiro o tira con Paura mentre è sott'acqua, puoi spendere la tua mossa GM per farlo avanzare una volta in più — o due volte, se ha fallito con Paura. Una volta che il conto alla rovescia finisce, il PG sott'acqua deve segnare uno Stress ogni volta che compie un'azione.
+Per le creature che non possono respirare sott'acqua, usa un conto alla rovescia standard (3) per tenere traccia di quanto a lungo possono trattenere il respiro. 
+Fai avanzare il conto alla rovescia ogni volta che il PG compie un'azione. 
+Inoltre, se fallisce un tiro o tira con Paura mentre è sott'acqua, puoi spendere la tua mossa GM per farlo avanzare una volta in più — o due volte, se ha fallito con Paura. Una volta che il conto alla rovescia finisce, il PG sott'acqua deve segnare uno Stress ogni volta che compie un'azione.
 
 ##### CONFLITTO TRA PG
 A volte un giocatore potrebbe voler che il suo personaggio agisca contro un altro PG nella scena. Prima di passare ai tiri di dadi, discuti la situazione con entrambi i giocatori per decidere come risolvere il conflitto. Un tiro potrebbe non essere necessario per raggiungere un risultato — ma se tirare i dadi sarà divertente per tutti i coinvolti, raggiungi un consenso sui termini del tiro, quindi facilita la scena in base ai risultati.

@@ -67,7 +67,7 @@ Effetti ad alto impatto che costano una Paura per essere attivati.
 ##### REAZIONI
 **Colpo Pesante - Reazione:** Quando questo avversario infligge danno con un attacco standard, puoi spendere una Paura per ottenere un bonus di +X al tiro danno.
 **Gioco di Squadra - Reazione**: Quando un altro avversario a portata Molto Vicina di questo avversario infligge X danni a una creatura, puoi segnare uno Stress per fare un attacco standard contro quella stessa creatura. In caso di successo, combina il danno.
-**Slancio - Reazione:** Quando l'avversario fa un attacco riuscito contro un PG, guadagni una Paura.
+**Slancio - Reazione:** Quando l'avversario fa un attacca con successo un PG, guadagni una Paura.
 
 ##### PASSIVE
 **Orda (X) - Passiva:** Quando l'Orda ha segnato metà o più dei suoi PF, il suo attacco standard infligge X danni invece.
@@ -160,7 +160,8 @@ Le caratteristiche forniscono ispirazione per le mosse del GM che puoi usare e c
 Suggerimenti per agganci di trama, motori narrativi e connessioni con altri elementi della storia.
 
 #### ADATTARE GLI AMBIENTI
-A volte vuoi usare un ambiente ma si trova al tier sbagliato per il tuo gruppo. Oppure potresti voler sostituire una o due caratteristiche, per poi presentarlo come un ambiente completamente diverso. Sia che tu stia pianificando la tua sessione o che tu stia improvvisando un ambiente a metà sessione, puoi adattare il blocco statistiche di un ambiente esistente per adattarlo alle esigenze della tua scena o improvvisare gli elementi secondo necessità. Il framework degli ambienti serve per aiutare a organizzare le idee, non per soffocare la creatività. Quando devi adattare rapidamente un blocco statistiche a un tier diverso, puoi semplicemente sostituire le sue statistiche esistenti con quelle elencate nella tabella Statistiche dell’ambiente per Tier, usando la colonna che corrisponde al tier del tuo gruppo.
+A volte vuoi usare un ambiente ma si trova al tier sbagliato per il tuo gruppo. Oppure potresti voler sostituire una o due caratteristiche, per poi presentarlo come un ambiente completamente diverso. Sia che tu stia pianificando la tua sessione o che tu stia improvvisando un ambiente a metà sessione, puoi adattare il blocco statistiche di un ambiente esistente per adattarlo alle esigenze della tua scena o improvvisare gli elementi secondo necessità. Il framework degli ambienti serve per aiutare a organizzare le idee, non per soffocare la creatività. 
+Quando devi adattare rapidamente un blocco statistiche a un tier diverso, puoi semplicemente sostituire le sue statistiche esistenti con quelle elencate nella tabella Statistiche dell’ambiente per Tier, usando la colonna che corrisponde al tier del tuo gruppo.
 
 ##### STATISTICHE DI RIFERIMENTO PER GLI AMBIENTI PER TIER
 
